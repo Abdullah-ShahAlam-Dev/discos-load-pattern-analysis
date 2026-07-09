@@ -1,0 +1,883 @@
+temp_max,weather_icon,cloud_cover,wind_speed,humidity,weather_date,temp_min,weather_summary
+11.96,fog,0.79,3.88,0.95,11/11/2011 0:00,8.85,Foggy until afternoon.
+8.59,partly-cloudy-day,0.56,3.94,0.88,12/11/2011 0:00,2.48,Partly cloudy throughout the day.
+10.33,partly-cloudy-day,0.85,3.54,0.74,12/27/2011 0:00,8.03,Mostly cloudy throughout the day.
+8.07,wind,0.32,3,0.87,12/2/2011 0:00,2.56,Partly cloudy throughout the day and breezy overnight.
+8.22,partly-cloudy-night,0.37,4.46,0.8,12/24/2011 0:00,3.17,Mostly cloudy throughout the day.
+7.97,wind,0.42,4.71,0.77,12/15/2011 0:00,4.08,Partly cloudy throughout the day and breezy in the morning.
+13.19,fog,0.26,2.37,0.92,11/19/2011 0:00,7.48,Foggy starting in the evening.
+8.32,fog,0.81,2.36,0.93,11/16/2011 0:00,5.19,Foggy starting in the evening.
+9.82,wind,0.38,5.02,0.84,12/12/2011 0:00,3.09,Partly cloudy throughout the day and breezy starting in the evening.
+9.71,fog,0.41,1.24,0.96,11/20/2011 0:00,4.76,Foggy in the morning.
+11.31,fog,0.83,2.4,0.92,11/8/2011 0:00,9.37,Foggy in the morning.
+9.11,partly-cloudy-day,0.36,4.31,0.82,12/4/2011 0:00,4.69,Partly cloudy until evening.
+4.68,partly-cloudy-day,0.7,3.71,0.88,12/16/2011 0:00,1.8,Mostly cloudy throughout the day.
+15.57,partly-cloudy-day,0.36,2.45,0.84,11/1/2011 0:00,9.68,Partly cloudy until evening.
+12.91,partly-cloudy-day,0.81,5.44,0.84,12/26/2011 0:00,9.82,Mostly cloudy throughout the day.
+12.58,partly-cloudy-night,0.56,2.34,0.86,11/28/2011 0:00,1.31,Mostly cloudy throughout the day.
+7.68,partly-cloudy-day,0.15,5.65,0.71,12/9/2011 0:00,2.03,"Partly cloudy starting in the afternoon, continuing until evening."
+6.87,partly-cloudy-day,0.2,5.57,0.77,12/5/2011 0:00,2.81,Partly cloudy until evening.
+12.93,partly-cloudy-night,0.41,4.04,0.89,11/24/2011 0:00,8.56,Partly cloudy throughout the day.
+14.44,fog,0.52,2.23,0.88,11/17/2011 0:00,8.54,Foggy in the morning.
+12.08,wind,0.42,7.44,0.75,12/13/2011 0:00,4.54,Breezy in the morning and partly cloudy throughout the day.
+12.14,partly-cloudy-night,0.38,4.31,0.87,12/22/2011 0:00,8.08,Partly cloudy throughout the day.
+6.91,partly-cloudy-day,0.34,4.79,0.83,12/6/2011 0:00,2.68,Partly cloudy until evening.
+9.02,wind,0.29,7.06,0.68,12/7/2011 0:00,4.91,Partly cloudy throughout the day and breezy until afternoon.
+10.69,fog,0.7,2.62,0.95,11/21/2011 0:00,7.1,Foggy starting in the evening.
+12.89,wind,0.53,7.01,0.81,12/8/2011 0:00,4.27,Breezy and mostly cloudy throughout the day.
+11.85,partly-cloudy-day,0.77,4.77,0.81,11/6/2011 0:00,9.46,Mostly cloudy throughout the day.
+13.03,partly-cloudy-day,0.48,5.02,0.79,11/25/2011 0:00,7.46,Partly cloudy throughout the day.
+12.15,partly-cloudy-day,0.57,2.57,0.82,12/1/2011 0:00,6.08,Partly cloudy throughout the day.
+11.98,partly-cloudy-day,0.88,5.81,0.83,12/25/2011 0:00,8.67,Mostly cloudy throughout the day.
+10.27,partly-cloudy-day,0.56,3.71,0.84,12/30/2011 0:00,5.33,Mostly cloudy throughout the day.
+15.54,fog,0.5,2.62,0.91,11/4/2011 0:00,11.53,Foggy overnight.
+13.71,fog,0.34,2.66,0.92,11/10/2011 0:00,10.26,Foggy in the morning.
+15,partly-cloudy-day,0.57,2.74,0.9,11/9/2011 0:00,10.1,Partly cloudy throughout the day.
+17.41,partly-cloudy-day,0.52,3.99,0.89,11/3/2011 0:00,12.79,Partly cloudy throughout the day.
+12.78,fog,0.82,3.9,0.89,11/7/2011 0:00,10.17,Foggy starting in the evening.
+10.36,fog,0.36,2.04,0.93,11/23/2011 0:00,3.81,Foggy in the morning.
+14.64,partly-cloudy-day,0.37,3.15,0.87,11/18/2011 0:00,8.64,Partly cloudy until evening.
+12.14,partly-cloudy-day,0.67,2.9,0.94,12/21/2011 0:00,5.93,Mostly cloudy throughout the day.
+6.64,partly-cloudy-day,0.47,2.7,0.94,12/19/2011 0:00,-0.84,Partly cloudy throughout the day.
+11.19,partly-cloudy-day,0.46,6.02,0.77,12/28/2011 0:00,5.95,Partly cloudy until evening.
+12.57,partly-cloudy-day,0.76,5.46,0.89,12/31/2011 0:00,10.66,Mostly cloudy throughout the day.
+5.49,partly-cloudy-day,0.22,3.6,0.84,12/18/2011 0:00,-0.56,Partly cloudy until evening.
+11.36,fog,0.63,3.42,0.87,11/15/2011 0:00,5.88,Foggy in the morning.
+11.44,partly-cloudy-day,0.74,4.85,0.85,12/23/2011 0:00,5.28,Mostly cloudy throughout the day.
+12.96,wind,0.44,5.75,0.81,11/26/2011 0:00,7.01,Mostly cloudy throughout the day and breezy overnight.
+13.94,fog,0.65,2.7,0.92,11/5/2011 0:00,10.17,Foggy in the morning.
+15.26,fog,0.78,2.5,0.93,11/12/2011 0:00,11.56,Foggy starting in the evening.
+6.08,partly-cloudy-day,0.17,3.08,0.81,12/10/2011 0:00,-0.13,Partly cloudy until afternoon.
+13.47,wind,0.6,6.48,0.82,11/29/2011 0:00,6.37,"Mostly cloudy until evening and breezy starting in the afternoon, continuing until evening."
+15.32,fog,0.56,3.81,0.9,11/13/2011 0:00,10.23,Foggy in the morning.
+12.93,fog,0.78,0.35,0.94,11/22/2011 0:00,9.19,Foggy until afternoon.
+5.92,partly-cloudy-day,0.36,4.48,0.79,12/14/2011 0:00,4.14,Partly cloudy until evening.
+11.42,partly-cloudy-day,0.54,5.42,0.79,12/3/2011 0:00,8.12,Partly cloudy throughout the day.
+5.35,partly-cloudy-day,0.37,3.99,0.86,12/17/2011 0:00,0.24,Partly cloudy throughout the day.
+9.58,partly-cloudy-day,0.45,6.83,0.76,12/29/2011 0:00,5.31,Partly cloudy throughout the day.
+13.54,wind,0.42,5.48,0.72,11/27/2011 0:00,4.47,Breezy in the morning and partly cloudy until afternoon.
+11.87,wind,0.31,4.43,0.78,11/30/2011 0:00,6.34,Partly cloudy throughout the day and breezy overnight.
+10.18,fog,0.86,3.34,0.95,11/14/2011 0:00,8.16,Foggy until evening.
+8.26,partly-cloudy-day,0.48,4.25,0.81,12/20/2011 0:00,5.66,Partly cloudy throughout the day.
+15.19,partly-cloudy-night,0.39,4.39,0.87,11/2/2011 0:00,8.88,Partly cloudy throughout the day.
+12.54,wind,0.54,6.54,0.81,11/25/2012 0:00,7.46,Breezy in the morning and partly cloudy throughout the day.
+16.42,partly-cloudy-day,0.65,0.61,0.78,5/18/2012 23:00,10.59,Mostly cloudy throughout the day.
+16.44,partly-cloudy-day,0.63,1.68,0.88,7/13/2012 23:00,13.13,Partly cloudy throughout the day.
+12.31,fog,0.48,4.46,0.86,9/22/2012 23:00,8.85,Foggy overnight.
+24.64,wind,0,5.15,0.58,5/25/2012 23:00,15.06,Breezy in the afternoon.
+9.18,partly-cloudy-night,0.45,3.93,0.78,1/6/2012 0:00,4.4,Mostly cloudy throughout the day.
+13.46,partly-cloudy-day,0.76,5.74,0.9,11/20/2012 0:00,10.88,Mostly cloudy throughout the day.
+9.19,partly-cloudy-day,0.82,2.7,0.9,5/2/2012 23:00,7.99,Mostly cloudy throughout the day.
+9.93,partly-cloudy-day,0.67,3.78,0.91,4/18/2012 23:00,6.47,Mostly cloudy throughout the day.
+9.71,partly-cloudy-day,0.63,4.28,0.73,5/4/2012 23:00,6.21,Mostly cloudy throughout the day.
+11.62,partly-cloudy-day,0.47,3.41,0.72,4/13/2012 23:00,5.67,Partly cloudy throughout the day.
+11.46,partly-cloudy-day,0.44,4.07,0.85,11/1/2012 0:00,4.2,Partly cloudy until evening.
+24.14,wind,0.09,4.88,0.64,5/24/2012 23:00,15.81,"Partly cloudy until afternoon and breezy starting in the afternoon, continuing until evening."
+1.81,fog,0.85,0.93,0.96,2/5/2012 0:00,-0.12,Foggy overnight.
+10.81,wind,0.72,5.9,0.89,4/8/2012 23:00,8.31,Mostly cloudy throughout the day and breezy starting in the evening.
+23.97,partly-cloudy-day,0.44,2.31,0.75,8/13/2012 23:00,17.62,Partly cloudy throughout the day.
+11.19,partly-cloudy-night,0.53,3.98,0.84,1/11/2012 0:00,7.1,Partly cloudy throughout the day.
+27.23,partly-cloudy-day,0.45,3.71,0.63,8/16/2012 23:00,17.92,Partly cloudy until evening.
+18.75,partly-cloudy-day,0.48,4.03,0.79,7/10/2012 23:00,12.07,Partly cloudy throughout the day.
+14.43,partly-cloudy-day,0.6,4.35,0.83,2/24/2012 0:00,9.55,Mostly cloudy throughout the day.
+1.79,fog,0.75,0.84,0.81,2/9/2012 0:00,-0.96,Foggy starting in the evening.
+22.5,partly-cloudy-day,0.39,4.17,0.75,8/27/2012 23:00,14.97,Partly cloudy until evening.
+9.67,partly-cloudy-night,0.33,3.58,0.87,11/6/2012 0:00,0.92,Partly cloudy throughout the day.
+12.45,partly-cloudy-day,0.35,3.63,0.73,4/20/2012 23:00,3.78,Partly cloudy throughout the day.
+18.18,partly-cloudy-day,0.15,2.85,0.71,3/25/2012 23:00,3.84,Partly cloudy in the afternoon.
+16.79,fog,0.32,1.41,0.82,3/15/2012 0:00,2.82,Foggy in the morning.
+24.34,partly-cloudy-day,0.5,1.15,0.72,9/2/2012 23:00,15.69,Partly cloudy until evening.
+18.12,partly-cloudy-day,0.33,5.55,0.71,6/22/2012 23:00,11.01,Partly cloudy throughout the day.
+16.44,partly-cloudy-day,0.39,5.09,0.85,10/1/2012 23:00,10.87,Partly cloudy throughout the day.
+21.77,partly-cloudy-day,0.33,4.37,0.73,8/2/2012 23:00,13.09,Partly cloudy throughout the day.
+4.5,fog,0.77,1.62,0.89,1/29/2012 0:00,1.87,Foggy in the morning.
+10.94,partly-cloudy-day,0.37,0.59,0.59,4/15/2012 23:00,1.96,Partly cloudy throughout the day.
+27.78,partly-cloudy-day,0.22,2.97,0.67,9/8/2012 23:00,11.32,Partly cloudy starting in the afternoon.
+2.13,fog,0.55,2.36,0.84,1/31/2012 0:00,-0.54,Foggy in the morning.
+6.33,partly-cloudy-night,0.56,5.63,0.8,12/7/2012 0:00,2.97,Mostly cloudy throughout the day.
+9.82,partly-cloudy-day,0.39,3.07,0.89,12/16/2012 0:00,5.32,Partly cloudy throughout the day.
+22.86,partly-cloudy-day,0.22,3,0.66,7/21/2012 23:00,12.24,Partly cloudy in the morning.
+14.06,partly-cloudy-day,0.42,2.52,0.66,5/16/2012 23:00,7.11,Partly cloudy throughout the day.
+11.09,partly-cloudy-day,0.61,3.31,0.71,3/30/2012 23:00,6.58,Mostly cloudy throughout the day.
+17.07,partly-cloudy-day,0.39,4.08,0.85,9/27/2012 23:00,9.03,Partly cloudy until evening.
+13.27,partly-cloudy-day,0.17,2.68,0.68,3/19/2012 0:00,1.69,Partly cloudy throughout the day.
+12.32,partly-cloudy-day,0.2,2.36,0.8,10/13/2012 23:00,2.81,"Partly cloudy starting in the afternoon, continuing until evening."
+13.89,partly-cloudy-day,0.56,3.37,0.79,6/3/2012 23:00,7.64,Partly cloudy until evening.
+14.66,partly-cloudy-night,0.54,3.23,0.88,11/13/2012 0:00,10.06,Mostly cloudy throughout the day.
+10.01,wind,0.6,5.1,0.87,4/17/2012 23:00,6.27,Mostly cloudy throughout the day and breezy until afternoon.
+17.15,partly-cloudy-day,0.32,4.69,0.68,4/29/2012 23:00,8.68,Partly cloudy throughout the day.
+9.45,partly-cloudy-day,0.25,3.16,0.79,11/3/2012 0:00,3.22,Partly cloudy until evening.
+10.03,wind,0.74,4.9,0.92,4/27/2012 23:00,6.46,Mostly cloudy throughout the day and breezy starting in the evening.
+20.21,partly-cloudy-day,0.59,5.69,0.78,9/9/2012 23:00,16.93,Partly cloudy throughout the day.
+3.36,partly-cloudy-day,0.36,5.45,0.67,2/1/2012 0:00,-0.92,Partly cloudy until evening.
+17.88,partly-cloudy-day,0.31,5.06,0.7,6/30/2012 23:00,11.01,Partly cloudy throughout the day.
+11.15,partly-cloudy-day,0.67,3.68,0.85,2/27/2012 0:00,6.27,Mostly cloudy throughout the day.
+9.62,partly-cloudy-day,0.73,3.56,0.75,1/8/2012 0:00,8.12,Mostly cloudy until evening.
+9.32,wind,0.65,2.19,0.9,3/4/2012 0:00,3.92,Mostly cloudy throughout the day and breezy overnight.
+14.48,partly-cloudy-day,0.34,2.42,0.72,3/20/2012 0:00,4.33,Partly cloudy throughout the day.
+18.67,partly-cloudy-day,0.5,3.27,0.8,7/11/2012 23:00,10.04,Partly cloudy throughout the day.
+18.08,partly-cloudy-day,0.35,4.6,0.71,6/13/2012 23:00,8.7,Partly cloudy throughout the day.
+19.69,partly-cloudy-day,0.31,4.22,0.65,7/29/2012 23:00,9.86,Partly cloudy throughout the day.
+9.69,partly-cloudy-day,0.44,3.21,0.91,12/21/2012 0:00,6.3,Partly cloudy throughout the day.
+10.92,partly-cloudy-day,0.45,2.37,0.84,10/30/2012 0:00,5.57,Partly cloudy throughout the day.
+14.29,fog,0.55,3.5,0.82,3/3/2012 0:00,7.06,Foggy in the morning.
+18.26,partly-cloudy-day,0.14,2.09,0.53,3/26/2012 23:00,5.32,Partly cloudy until evening.
+21.29,partly-cloudy-day,0.45,4.71,0.74,8/1/2012 23:00,15.61,Partly cloudy throughout the day.
+11.46,wind,0.47,9.49,0.7,1/5/2012 0:00,7.34,Breezy until afternoon and partly cloudy throughout the day.
+13.89,wind,0.56,7.61,0.77,4/25/2012 23:00,9.23,Breezy and partly cloudy throughout the day.
+18.65,partly-cloudy-day,0.54,3.33,0.81,7/6/2012 23:00,13.42,Partly cloudy throughout the day.
+11.53,partly-cloudy-day,0.29,2.18,0.84,10/12/2012 23:00,6.41,Partly cloudy until evening.
+14.89,partly-cloudy-day,0.4,1.75,0.83,10/5/2012 23:00,7.61,Partly cloudy until afternoon.
+1.58,fog,0.6,2.09,0.87,12/13/2012 0:00,-1.35,Foggy overnight.
+15.88,wind,0.45,5.09,0.64,5/10/2012 23:00,9.37,Partly cloudy until evening and breezy in the morning.
+0.79,fog,0.58,2.13,0.8,2/4/2012 0:00,-3.27,Foggy starting in the evening.
+9.76,partly-cloudy-day,0.38,1.84,0.82,3/18/2012 0:00,3.98,Partly cloudy until evening.
+12.35,partly-cloudy-day,0.59,7.17,0.75,1/21/2012 0:00,7.61,Partly cloudy throughout the day.
+17.19,partly-cloudy-day,0.28,4.39,0.64,9/17/2012 23:00,10.97,Partly cloudy until evening.
+8.39,fog,0.66,2.11,0.91,3/2/2012 0:00,5.69,Foggy throughout the day.
+7.57,partly-cloudy-day,0.21,4.81,0.81,1/2/2012 0:00,4.69,Partly cloudy until evening.
+11.94,wind,0.57,5.44,0.88,4/24/2012 23:00,6.55,Mostly cloudy throughout the day and breezy until afternoon.
+27.12,partly-cloudy-day,0.14,1.39,0.62,9/7/2012 23:00,10.41,Partly cloudy until afternoon.
+15.2,wind,0.66,2.53,0.88,9/23/2012 23:00,11.51,"Foggy in the morning and breezy starting in the afternoon, continuing until evening."
+4.84,fog,0.59,1.78,0.88,2/12/2012 0:00,-4.46,Foggy until afternoon.
+11.27,partly-cloudy-day,0.41,3.89,0.81,5/14/2012 23:00,5.92,Partly cloudy until evening.
+20.13,wind,0.48,5.76,0.71,6/29/2012 23:00,13.61,"Partly cloudy until evening and breezy starting in the afternoon, continuing until evening."
+20.69,wind,0.56,5.42,0.68,9/13/2012 23:00,13.61,Breezy in the morning and partly cloudy throughout the day.
+5.84,partly-cloudy-day,0.36,3.2,0.83,11/29/2012 0:00,1.63,Partly cloudy until evening.
+17.12,wind,0.79,6.59,0.9,5/9/2012 23:00,14.44,Breezy in the morning and mostly cloudy throughout the day.
+15.83,partly-cloudy-day,0.17,3.36,0.75,9/28/2012 23:00,8.71,Partly cloudy until afternoon.
+21.14,partly-cloudy-day,0.1,0.82,0.49,3/27/2012 23:00,4.88,Partly cloudy until afternoon.
+12.44,partly-cloudy-day,0.65,1.69,0.88,11/17/2012 0:00,8.18,Mostly cloudy throughout the day.
+14.44,partly-cloudy-day,0.16,2.6,0.58,5/11/2012 23:00,5.69,Partly cloudy until afternoon.
+11.51,partly-cloudy-day,0.56,5.23,0.85,1/19/2012 0:00,6.91,Partly cloudy throughout the day.
+7.22,partly-cloudy-day,0.55,1.93,0.78,3/6/2012 0:00,3.74,Mostly cloudy until evening.
+11.41,partly-cloudy-day,0.43,4.56,0.8,5/13/2012 23:00,6.94,Mostly cloudy until evening.
+17.92,partly-cloudy-day,0.3,3.53,0.75,7/28/2012 23:00,10.97,Partly cloudy throughout the day.
+22.92,partly-cloudy-day,0.56,2.82,0.69,6/25/2012 23:00,14.04,Mostly cloudy throughout the day.
+12.62,fog,0.55,1.86,0.86,11/14/2012 0:00,7.33,Foggy overnight.
+9.42,partly-cloudy-night,0.3,0.72,0.82,11/18/2012 0:00,2.07,"Partly cloudy starting in the afternoon, continuing until evening."
+17.92,wind,0.38,6.62,0.61,6/8/2012 23:00,11.02,Partly cloudy until evening and breezy until afternoon.
+10.69,partly-cloudy-day,0.64,1.29,0.91,11/26/2012 0:00,7.17,Mostly cloudy throughout the day.
+27.16,partly-cloudy-day,0.31,3.03,0.75,6/27/2012 23:00,16.23,Partly cloudy until evening.
+9.67,partly-cloudy-day,0.63,2.4,0.86,4/22/2012 23:00,6.89,Mostly cloudy throughout the day.
+12.13,partly-cloudy-day,0.32,1.31,0.77,4/11/2012 23:00,3.68,Partly cloudy throughout the day.
+15.62,partly-cloudy-day,0.28,1.98,0.69,9/21/2012 23:00,6.59,Partly cloudy throughout the day.
+13.08,partly-cloudy-day,0.72,2.85,0.81,4/7/2012 23:00,6.52,Mostly cloudy throughout the day.
+4.76,partly-cloudy-night,0.31,2.1,0.84,12/2/2012 0:00,-1.55,Mostly cloudy starting in the afternoon.
+8.67,partly-cloudy-day,0.59,0.59,0.92,11/4/2012 0:00,2.96,Mostly cloudy throughout the day.
+11.97,wind,0.59,7.6,0.83,12/29/2012 0:00,7.28,Breezy until afternoon and partly cloudy throughout the day.
+22.37,partly-cloudy-day,0.33,1.06,0.73,5/28/2012 23:00,14.25,Partly cloudy throughout the day.
+17.51,partly-cloudy-day,0.32,1.01,0.67,6/12/2012 23:00,7.54,Partly cloudy until evening.
+15.47,partly-cloudy-day,0.28,4.92,0.78,9/24/2012 23:00,9.74,Partly cloudy throughout the day.
+10.18,partly-cloudy-day,0.39,5.05,0.88,12/26/2012 0:00,4.83,Partly cloudy throughout the day.
+13.46,partly-cloudy-day,0.31,2.65,0.64,5/15/2012 23:00,3.89,Partly cloudy throughout the day.
+15.39,partly-cloudy-day,0.53,3.15,0.81,3/10/2012 0:00,8.74,Partly cloudy throughout the day.
+22.09,partly-cloudy-day,0.34,2.54,0.75,8/20/2012 23:00,16.27,Partly cloudy throughout the day.
+17.53,wind,0.54,7.04,0.78,6/21/2012 23:00,11.44,Partly cloudy throughout the day and breezy until evening.
+14.13,partly-cloudy-day,0.56,2.16,0.74,10/9/2012 23:00,7.04,Partly cloudy throughout the day.
+16.22,partly-cloudy-day,0.75,4.53,0.82,5/20/2012 23:00,9.32,Mostly cloudy throughout the day.
+6.27,partly-cloudy-night,0.32,3.03,0.78,1/15/2012 0:00,1.16,"Partly cloudy starting in the afternoon, continuing until evening."
+10.18,partly-cloudy-day,0.49,1.03,0.75,4/3/2012 23:00,3.57,Partly cloudy throughout the day.
+10.7,partly-cloudy-day,0.38,2.71,0.89,11/23/2012 0:00,5.12,Partly cloudy until evening.
+2.63,partly-cloudy-day,0.58,2.66,0.75,2/7/2012 0:00,-2.83,Mostly cloudy throughout the day.
+6.56,partly-cloudy-day,0.23,2.45,0.74,1/16/2012 0:00,0.83,Partly cloudy until evening.
+14.73,fog,0.9,2.57,0.98,10/21/2012 23:00,12.02,Foggy throughout the day.
+8.4,partly-cloudy-day,0.36,3.89,0.78,1/23/2012 0:00,3.46,Partly cloudy until evening.
+22.04,partly-cloudy-day,0.37,2.6,0.7,8/22/2012 23:00,12.96,Partly cloudy throughout the day.
+16.24,partly-cloudy-day,0.61,4.57,0.89,9/30/2012 23:00,12.37,Mostly cloudy throughout the day.
+22.57,partly-cloudy-day,0.41,3.24,0.79,7/31/2012 23:00,13.69,Partly cloudy throughout the day.
+9.07,fog,0.71,0.62,0.92,11/15/2012 0:00,6.45,Foggy in the morning.
+13.28,partly-cloudy-day,0.85,4.37,0.95,6/10/2012 23:00,10.97,Mostly cloudy throughout the day.
+10.47,partly-cloudy-day,0.78,6.68,0.84,2/22/2012 0:00,7.48,Mostly cloudy throughout the day.
+11.65,partly-cloudy-day,0.66,4.83,0.76,2/21/2012 0:00,5.72,Mostly cloudy throughout the day.
+20.96,wind,0.44,6.24,0.75,6/28/2012 23:00,13.96,Partly cloudy throughout the day and breezy until evening.
+18.83,fog,0.08,2.12,0.74,3/24/2012 0:00,6.42,Foggy in the morning.
+1.21,partly-cloudy-day,0.47,2.13,0.81,2/10/2012 0:00,-2.96,Partly cloudy until evening.
+20.99,partly-cloudy-day,0.32,3.82,0.75,8/26/2012 23:00,12.62,Partly cloudy throughout the day.
+28.88,partly-cloudy-day,0.21,0.76,0.72,8/18/2012 23:00,17.97,Partly cloudy until evening.
+11.87,wind,0.45,2.82,0.91,11/21/2012 0:00,6.06,Partly cloudy until evening and breezy in the afternoon.
+20.35,partly-cloudy-day,0.31,1.97,0.68,6/18/2012 23:00,10.1,Partly cloudy throughout the day.
+9.37,wind,0.48,8.01,0.64,3/5/2012 0:00,4.04,Breezy until evening and partly cloudy throughout the day.
+12.22,partly-cloudy-day,0.61,2.49,0.92,10/7/2012 23:00,9.51,Mostly cloudy throughout the day.
+10.34,partly-cloudy-day,0.6,5.65,0.72,1/7/2012 0:00,7.6,Mostly cloudy throughout the day.
+9.12,partly-cloudy-day,0.25,4.65,0.66,4/14/2012 23:00,3.3,Partly cloudy until evening.
+10.61,partly-cloudy-day,0.51,3.42,0.74,2/16/2012 0:00,5.47,Partly cloudy throughout the day.
+20.95,partly-cloudy-day,0.41,3.26,0.77,8/5/2012 23:00,14.77,Partly cloudy throughout the day.
+22.57,partly-cloudy-day,0.26,2.67,0.77,8/14/2012 23:00,17.38,Partly cloudy throughout the day.
+16.46,partly-cloudy-day,0.48,4.6,0.81,9/29/2012 23:00,6.42,Mostly cloudy throughout the day.
+5.59,partly-cloudy-day,0.27,3.93,0.79,12/10/2012 0:00,1.55,Partly cloudy until evening.
+11.92,fog,0.76,4.2,0.93,1/18/2012 0:00,4.51,Foggy in the morning.
+12.87,partly-cloudy-day,0.8,3.69,0.83,6/11/2012 23:00,10.46,Mostly cloudy throughout the day.
+14.34,partly-cloudy-day,0.36,4.65,0.8,10/2/2012 23:00,9.35,Partly cloudy throughout the day.
+16.61,partly-cloudy-day,0.48,2.17,0.82,9/26/2012 23:00,10.57,Partly cloudy throughout the day.
+13.21,partly-cloudy-day,0.66,0.51,0.95,10/18/2012 23:00,11.98,Mostly cloudy throughout the day.
+11.27,partly-cloudy-day,0.7,3.17,0.8,11/9/2012 0:00,8.13,Mostly cloudy throughout the day.
+2.7,fog,0.29,1.67,0.89,12/11/2012 0:00,-2.49,Foggy starting in the evening.
+22.91,partly-cloudy-day,0.24,4.3,0.67,8/10/2012 23:00,15.21,Partly cloudy until evening.
+12.02,fog,0.45,0.65,0.77,4/12/2012 23:00,3.97,Foggy in the morning.
+10.31,partly-cloudy-day,0.49,2.38,0.91,11/10/2012 0:00,5.2,Mostly cloudy until evening.
+11.17,partly-cloudy-day,0.39,4.93,0.86,12/15/2012 0:00,6.91,Partly cloudy throughout the day.
+17.24,partly-cloudy-day,0.61,1.85,0.84,4/30/2012 23:00,11.28,Mostly cloudy throughout the day.
+12.92,partly-cloudy-day,0.31,1.72,0.75,4/2/2012 23:00,5.04,Partly cloudy throughout the day.
+19.89,partly-cloudy-day,0.36,0.9,0.7,7/20/2012 23:00,11.83,Partly cloudy throughout the day.
+20.27,partly-cloudy-day,0.44,2.88,0.76,8/23/2012 23:00,14.07,Partly cloudy throughout the day.
+14.48,partly-cloudy-day,0.52,2.54,0.82,5/6/2012 23:00,5.2,Partly cloudy throughout the day.
+21.09,partly-cloudy-day,0.44,2.52,0.55,7/27/2012 23:00,14.93,Partly cloudy until evening.
+13.03,partly-cloudy-day,0.31,2.97,0.84,10/14/2012 23:00,4.09,Partly cloudy throughout the day.
+17.58,partly-cloudy-day,0.56,4.51,0.83,7/1/2012 23:00,12.47,Mostly cloudy throughout the day.
+8.44,partly-cloudy-night,0.33,3.42,0.7,2/20/2012 0:00,-1.9,Partly cloudy throughout the day.
+13.09,wind,0.54,7.58,0.81,11/22/2012 0:00,6.56,Breezy and mostly cloudy throughout the day.
+9.17,partly-cloudy-day,0.42,3.13,0.88,10/27/2012 23:00,1.43,Partly cloudy throughout the day.
+9.24,partly-cloudy-night,0.38,4.55,0.81,12/31/2012 0:00,4.22,Partly cloudy throughout the day.
+9.33,wind,0.49,7.98,0.78,1/4/2012 0:00,5.27,Mostly cloudy throughout the day and windy starting in the evening.
+13.61,partly-cloudy-day,0.81,5.16,0.91,10/24/2012 23:00,10.09,Mostly cloudy throughout the day.
+14.05,fog,0.88,2.3,0.96,10/22/2012 23:00,12.46,Foggy throughout the day.
+12.28,partly-cloudy-day,0.35,2.48,0.65,4/5/2012 23:00,0.34,Mostly cloudy throughout the day.
+9.91,wind,0.58,3.43,0.97,11/24/2012 0:00,3.64,Foggy in the morning and breezy overnight.
+12.67,partly-cloudy-day,0.28,1.43,0.74,2/26/2012 0:00,3.26,Partly cloudy throughout the day.
+18.35,partly-cloudy-day,0.56,3.11,0.87,9/1/2012 23:00,12.57,Mostly cloudy throughout the day.
+15.62,partly-cloudy-day,0.47,1.87,0.67,3/21/2012 0:00,7.44,Partly cloudy until evening.
+29.86,partly-cloudy-day,0.23,2.17,0.59,8/17/2012 23:00,20.54,Partly cloudy until evening.
+14.89,wind,0.7,4.98,0.86,4/28/2012 23:00,5.99,Breezy until afternoon and mostly cloudy throughout the day.
+11.29,partly-cloudy-day,0.72,3.76,0.87,1/10/2012 0:00,9.16,Mostly cloudy throughout the day.
+6.46,partly-cloudy-day,0.52,2.14,0.83,12/8/2012 0:00,3.17,Partly cloudy throughout the day.
+25.45,partly-cloudy-day,0.31,1.93,0.78,5/23/2012 23:00,15.36,Partly cloudy until afternoon.
+9.02,partly-cloudy-day,0.78,2.56,0.86,5/3/2012 23:00,7.38,Mostly cloudy throughout the day.
+23.79,partly-cloudy-night,0.36,1.48,0.75,7/26/2012 23:00,15.93,Partly cloudy in the morning.
+17.22,partly-cloudy-day,0.4,1.56,0.78,6/9/2012 23:00,8.91,Partly cloudy throughout the day.
+17.29,wind,0.6,4.24,0.86,6/6/2012 23:00,12.6,Mostly cloudy throughout the day and breezy starting in the evening.
+21.16,partly-cloudy-day,0.32,2.63,0.64,6/19/2012 23:00,11.47,Partly cloudy throughout the day.
+11.83,partly-cloudy-day,0.59,3.64,0.84,2/17/2012 0:00,7.13,Mostly cloudy throughout the day.
+10.89,fog,0.79,1.55,0.86,3/13/2012 0:00,6.36,Foggy in the morning.
+18.7,partly-cloudy-day,0.39,2.46,0.82,7/5/2012 23:00,14.78,Partly cloudy throughout the day.
+9.1,partly-cloudy-night,0.32,3.79,0.86,12/17/2012 0:00,5.62,Partly cloudy throughout the day.
+13.08,partly-cloudy-day,0.53,5.51,0.86,12/23/2012 0:00,9.34,Partly cloudy throughout the day.
+12.74,partly-cloudy-day,0.54,2.47,0.85,2/29/2012 0:00,9.61,Mostly cloudy until evening.
+18.81,partly-cloudy-day,0.78,3.64,0.9,7/2/2012 23:00,15.43,Mostly cloudy throughout the day.
+12.18,partly-cloudy-day,0.5,3.06,0.92,11/12/2012 0:00,4.52,Mostly cloudy throughout the day.
+26.44,partly-cloudy-day,0.12,2.8,0.61,7/25/2012 23:00,15.93,Partly cloudy until afternoon.
+12.18,partly-cloudy-day,0.87,4.33,0.82,5/19/2012 23:00,9.06,Mostly cloudy throughout the day.
+27.18,partly-cloudy-day,0.19,3.21,0.58,7/22/2012 23:00,12.47,Partly cloudy until evening.
+8.68,partly-cloudy-night,0.25,3.33,0.78,1/27/2012 0:00,2.93,Partly cloudy throughout the day.
+19.88,wind,0.54,4.44,0.77,6/23/2012 23:00,11.65,Partly cloudy until evening and breezy until afternoon.
+17.54,partly-cloudy-day,0.71,4.71,0.81,6/1/2012 23:00,11.83,Mostly cloudy throughout the day.
+9.54,partly-cloudy-day,0.51,4.51,0.8,1/26/2012 0:00,3.15,Partly cloudy throughout the day.
+21.67,partly-cloudy-day,0.42,4.22,0.71,8/15/2012 23:00,16.02,Partly cloudy throughout the day.
+1.93,clear-day,0.04,0.92,0.78,2/11/2012 0:00,-5.64,Clear throughout the day.
+12.19,fog,0.82,4.54,0.95,6/2/2012 23:00,10.97,Foggy in the morning.
+24.99,partly-cloudy-day,0.23,0.55,0.7,8/9/2012 23:00,14.5,Partly cloudy throughout the day.
+10.61,partly-cloudy-day,0.59,5.39,0.73,2/15/2012 0:00,6.93,Partly cloudy throughout the day.
+18,partly-cloudy-day,0.61,3.31,0.85,7/8/2012 23:00,14.38,Mostly cloudy throughout the day.
+19.44,partly-cloudy-day,0.48,4.86,0.67,6/16/2012 23:00,12.46,Partly cloudy throughout the day.
+12.46,partly-cloudy-day,0.37,3.28,0.83,4/19/2012 23:00,5.34,Partly cloudy throughout the day.
+12.34,partly-cloudy-day,0.64,3.72,0.78,11/8/2012 0:00,7.81,Mostly cloudy throughout the day.
+24.79,partly-cloudy-day,0.42,1.9,0.77,9/3/2012 23:00,13.71,Partly cloudy throughout the day.
+14.74,wind,0.39,5.37,0.74,10/15/2012 23:00,9.06,Partly cloudy throughout the day and breezy until afternoon.
+17.46,partly-cloudy-day,0.55,3.33,0.84,7/9/2012 23:00,13.28,Partly cloudy throughout the day.
+17.77,partly-cloudy-day,0.54,1.52,0.79,7/19/2012 23:00,13.12,Partly cloudy throughout the day.
+22.8,partly-cloudy-day,0.54,1.73,0.77,8/7/2012 23:00,15.03,Partly cloudy until evening.
+6.01,partly-cloudy-night,0.14,0.99,0.86,1/14/2012 0:00,-1.79,Mostly cloudy starting in the evening.
+15.6,wind,0.61,3,0.86,10/4/2012 23:00,9.16,Mostly cloudy throughout the day and breezy in the morning.
+4.84,partly-cloudy-night,0.43,3.07,0.84,12/6/2012 0:00,-2.82,Mostly cloudy throughout the day.
+12.41,fog,0.54,2.03,0.8,3/14/2012 0:00,5.03,Foggy overnight.
+12.41,wind,0.48,8.47,0.82,1/3/2012 0:00,5.96,Windy until afternoon and mostly cloudy until evening.
+16.3,partly-cloudy-day,0.27,3.65,0.63,9/18/2012 23:00,7.35,Partly cloudy throughout the day.
+10.05,partly-cloudy-night,0.47,6.18,0.78,1/20/2012 0:00,4.91,Mostly cloudy throughout the day.
+17.12,partly-cloudy-day,0.16,1.28,0.71,3/29/2012 23:00,7.81,Partly cloudy until afternoon.
+18.52,partly-cloudy-day,0.72,5.3,0.85,7/17/2012 23:00,14.91,Mostly cloudy throughout the day.
+10.86,partly-cloudy-day,0.64,4.01,0.78,3/9/2012 0:00,6.74,Mostly cloudy throughout the day.
+8.47,partly-cloudy-day,0.72,3.98,0.9,11/27/2012 0:00,6.42,Mostly cloudy throughout the day.
+17.59,wind,0.47,4.96,0.78,6/14/2012 23:00,12.91,Partly cloudy throughout the day and breezy until evening.
+14.01,fog,0.61,0.86,0.91,10/19/2012 23:00,9.57,Foggy in the morning.
+12.33,partly-cloudy-day,0.68,4.05,0.84,1/9/2012 0:00,7.74,Mostly cloudy throughout the day.
+19.97,partly-cloudy-day,0.27,3.26,0.6,9/4/2012 23:00,12.07,Partly cloudy until evening.
+17.82,partly-cloudy-day,0.37,4.84,0.62,9/10/2012 23:00,11.73,Partly cloudy throughout the day.
+9.14,partly-cloudy-day,0.56,4.39,0.89,12/25/2012 0:00,6.46,Partly cloudy throughout the day.
+12.4,partly-cloudy-day,0.45,2.95,0.89,10/29/2012 0:00,7.66,Partly cloudy throughout the day.
+15.11,fog,0.11,1.03,0.8,3/1/2012 0:00,6.49,Foggy in the morning.
+4.08,fog,0.79,0.56,0.92,2/6/2012 0:00,1.39,Foggy in the morning.
+9.78,partly-cloudy-day,0.23,4.31,0.77,11/2/2012 0:00,4.61,Partly cloudy until evening.
+13.77,wind,0.42,4.94,0.71,4/16/2012 23:00,5.16,Partly cloudy until evening and breezy in the morning.
+18.87,partly-cloudy-day,0.43,2.39,0.73,6/17/2012 23:00,11.17,Partly cloudy until evening.
+14.23,partly-cloudy-day,0.58,2.66,0.82,10/8/2012 23:00,9.07,Partly cloudy throughout the day.
+12.3,wind,0.61,4.28,0.91,12/24/2012 0:00,7.57,Mostly cloudy throughout the day and breezy in the afternoon.
+7.97,partly-cloudy-night,0.51,4.09,0.84,12/27/2012 0:00,6.42,Partly cloudy throughout the day.
+16.18,fog,0.74,3.45,0.92,10/23/2012 23:00,13.08,Foggy throughout the day.
+1.8,partly-cloudy-day,0.45,0.73,0.91,12/12/2012 0:00,-3.83,Partly cloudy until evening.
+22.33,partly-cloudy-day,0.48,1.35,0.71,7/4/2012 23:00,15.2,Partly cloudy throughout the day.
+12.36,partly-cloudy-day,0.49,5.32,0.79,10/31/2012 0:00,6.45,Partly cloudy throughout the day.
+18.72,partly-cloudy-day,0.55,4.04,0.71,9/16/2012 23:00,13.29,Partly cloudy throughout the day.
+17.38,partly-cloudy-day,0.45,3.17,0.7,9/19/2012 23:00,9.07,Partly cloudy throughout the day.
+10.75,wind,0.46,4.26,0.78,3/7/2012 0:00,5.14,Partly cloudy until evening and breezy in the morning.
+20.53,partly-cloudy-day,0.55,2.53,0.72,8/31/2012 23:00,13.11,Partly cloudy throughout the day.
+14.72,partly-cloudy-day,0.48,5.42,0.75,10/11/2012 23:00,8.51,Partly cloudy until evening.
+25.13,partly-cloudy-day,0.24,2.43,0.7,8/11/2012 23:00,16.03,Partly cloudy until evening.
+25.92,partly-cloudy-day,0.27,0.52,0.69,8/8/2012 23:00,13.33,Partly cloudy until evening.
+24.54,partly-cloudy-day,0.34,2.78,0.75,8/19/2012 23:00,16.96,Partly cloudy until evening.
+12.9,partly-cloudy-day,0.37,5,0.7,4/9/2012 23:00,5.94,Partly cloudy throughout the day.
+13.86,fog,0.41,1.02,0.87,3/12/2012 0:00,5.43,Foggy in the morning.
+10.75,partly-cloudy-day,0.52,3.44,0.87,3/17/2012 0:00,7.37,Partly cloudy throughout the day.
+16.26,partly-cloudy-day,0.19,3.29,0.62,5/12/2012 23:00,5.49,"Partly cloudy starting in the afternoon, continuing until evening."
+7.96,partly-cloudy-day,0.62,2.17,0.86,12/18/2012 0:00,4.66,Mostly cloudy throughout the day.
+21.01,partly-cloudy-day,0.51,4.39,0.69,8/25/2012 23:00,14.26,Partly cloudy throughout the day.
+18.13,partly-cloudy-day,0.52,4.58,0.82,6/5/2012 23:00,12.52,Partly cloudy throughout the day.
+1.54,partly-cloudy-day,0.36,2.2,0.67,2/3/2012 0:00,-2.19,Partly cloudy until evening.
+10.22,partly-cloudy-day,0.58,3.55,0.87,12/3/2012 0:00,2.94,Partly cloudy until evening.
+6.46,partly-cloudy-day,0.57,2.56,0.86,1/28/2012 0:00,3.27,Mostly cloudy throughout the day.
+13.07,partly-cloudy-day,0.67,3.91,0.96,12/22/2012 0:00,6.04,Mostly cloudy throughout the day.
+10.9,wind,0.37,6.82,0.77,12/30/2012 0:00,5.44,Partly cloudy throughout the day and breezy overnight.
+12.48,partly-cloudy-day,0.57,2.91,0.76,4/23/2012 23:00,6.99,Partly cloudy until evening.
+18.77,partly-cloudy-day,0.55,1.08,0.89,7/7/2012 23:00,14.28,Partly cloudy throughout the day.
+18.31,partly-cloudy-day,0.66,3.88,0.76,9/15/2012 23:00,12.98,Mostly cloudy throughout the day.
+21.12,partly-cloudy-day,0.22,2.87,0.7,9/14/2012 23:00,9.69,Partly cloudy until evening.
+12.34,wind,0.7,4.78,0.89,12/28/2012 0:00,5.45,Mostly cloudy throughout the day and breezy overnight.
+4.37,partly-cloudy-night,0.25,1.55,0.88,11/30/2012 0:00,-0.89,"Partly cloudy starting in the afternoon, continuing until evening."
+16.98,partly-cloudy-day,0.5,4.73,0.84,2/23/2012 0:00,10.34,Partly cloudy throughout the day.
+9.76,partly-cloudy-day,0.81,3.56,0.9,1/25/2012 0:00,8.59,Mostly cloudy throughout the day.
+3.89,partly-cloudy-day,0.39,3.05,0.84,12/5/2012 0:00,-0.77,Partly cloudy until evening.
+9.77,partly-cloudy-day,0.6,2.13,0.95,1/24/2012 0:00,1.94,Mostly cloudy throughout the day.
+12.4,partly-cloudy-day,0.46,4.35,0.81,1/12/2012 0:00,5.08,Partly cloudy until evening.
+12.88,partly-cloudy-day,0.25,1.15,0.61,3/31/2012 23:00,2.43,Partly cloudy until evening.
+16.04,partly-cloudy-day,0.44,4.18,0.85,10/17/2012 23:00,12.15,Partly cloudy throughout the day.
+15.14,partly-cloudy-day,0.39,2.57,0.88,9/25/2012 23:00,10.07,Partly cloudy throughout the day.
+22.68,partly-cloudy-day,0.42,2.92,0.79,8/12/2012 23:00,15.26,Partly cloudy throughout the day.
+24.11,fog,0.4,2.37,0.72,5/29/2012 23:00,12.5,Foggy in the morning.
+25.37,partly-cloudy-day,0.17,2.18,0.75,5/22/2012 23:00,13.47,Partly cloudy in the morning.
+16.32,partly-cloudy-day,0.43,1.47,0.76,9/20/2012 23:00,10.34,Partly cloudy throughout the day.
+19.54,partly-cloudy-day,0.48,4.31,0.76,5/30/2012 23:00,13.7,Partly cloudy throughout the day.
+7.73,partly-cloudy-day,0.21,4.36,0.82,12/4/2012 0:00,1.21,Partly cloudy until evening.
+20.08,partly-cloudy-day,0.63,0.84,0.78,5/31/2012 23:00,13.98,Mostly cloudy throughout the day.
+15.55,partly-cloudy-day,0.38,1.25,0.81,3/11/2012 0:00,6.82,Partly cloudy until evening.
+20.69,partly-cloudy-day,0.34,2.23,0.79,8/4/2012 23:00,12.98,Partly cloudy throughout the day.
+10.11,partly-cloudy-day,0.7,5.19,0.79,10/25/2012 23:00,4.19,Mostly cloudy throughout the day.
+5.73,fog,0.31,2.68,0.88,12/1/2012 0:00,-1.35,Foggy in the morning.
+20.19,partly-cloudy-day,0.53,3.03,0.84,7/30/2012 23:00,11.52,Partly cloudy throughout the day.
+21.44,partly-cloudy-day,0.66,3.35,0.85,7/3/2012 23:00,15.95,Mostly cloudy throughout the day.
+10.48,partly-cloudy-day,0.72,2.09,0.75,4/6/2012 23:00,6.86,Mostly cloudy throughout the day.
+8.37,partly-cloudy-day,0.73,2.75,0.75,5/5/2012 23:00,5.72,Mostly cloudy throughout the day.
+21.04,partly-cloudy-day,0.41,3.97,0.77,8/3/2012 23:00,14.36,Partly cloudy until evening.
+12.91,partly-cloudy-day,0.31,1.67,0.7,4/10/2012 23:00,3.57,Partly cloudy throughout the day.
+17.72,partly-cloudy-day,0.33,3.21,0.6,8/30/2012 23:00,7.78,Partly cloudy throughout the day.
+15.81,fog,0.1,3.71,0.72,3/22/2012 0:00,6.14,Foggy overnight.
+19.26,partly-cloudy-day,0.58,4.59,0.83,7/12/2012 23:00,14.21,Partly cloudy throughout the day.
+6.35,partly-cloudy-day,0.17,3.81,0.64,2/19/2012 0:00,0.62,Partly cloudy until evening.
+17.47,wind,0.57,7.3,0.72,6/15/2012 23:00,12.57,Breezy and mostly cloudy throughout the day.
+14.84,partly-cloudy-day,0.49,4.14,0.77,4/26/2012 23:00,9.28,Partly cloudy throughout the day.
+16.6,partly-cloudy-day,0.42,4.66,0.82,10/16/2012 23:00,8.8,Partly cloudy throughout the day.
+15.04,partly-cloudy-day,0.24,1.14,0.63,4/1/2012 23:00,3.98,Partly cloudy throughout the day.
+15.18,wind,0.77,3.06,0.92,5/8/2012 23:00,10.78,Mostly cloudy throughout the day and breezy overnight.
+11.8,partly-cloudy-night,0.37,5.93,0.68,1/22/2012 0:00,6,Partly cloudy throughout the day.
+21.48,partly-cloudy-day,0.34,4.6,0.72,8/21/2012 23:00,13.16,Partly cloudy until evening.
+12.41,fog,0.69,3.37,0.94,10/20/2012 23:00,10.19,Foggy overnight.
+18.26,partly-cloudy-day,0.39,3.45,0.69,7/14/2012 23:00,12.44,Partly cloudy throughout the day.
+9.19,partly-cloudy-day,0.41,2.09,0.83,11/5/2012 0:00,2.94,Partly cloudy until evening.
+19.08,wind,0.59,2.75,0.84,6/20/2012 23:00,11.52,Mostly cloudy throughout the day and breezy overnight.
+25.76,partly-cloudy-day,0.18,2.97,0.63,9/6/2012 23:00,11.46,Partly cloudy until evening.
+9.57,partly-cloudy-day,0.76,3.54,0.96,12/20/2012 0:00,6.53,Mostly cloudy throughout the day.
+12.11,partly-cloudy-day,0.51,2.18,0.67,2/25/2012 0:00,6.97,Mostly cloudy until afternoon.
+13.79,partly-cloudy-day,0.39,2.58,0.78,3/25/2012 0:00,4.4,Partly cloudy until evening.
+14.99,partly-cloudy-day,0.28,3.65,0.79,10/3/2012 23:00,7.19,Partly cloudy throughout the day.
+13.86,partly-cloudy-day,0.66,2.71,0.86,2/28/2012 0:00,9.73,Mostly cloudy throughout the day.
+12.03,partly-cloudy-day,0.29,3.54,0.68,3/8/2012 0:00,3.26,Partly cloudy until evening.
+20.76,partly-cloudy-day,0.46,1.88,0.67,9/5/2012 23:00,8.67,Mostly cloudy throughout the day.
+6.41,partly-cloudy-day,0.16,1.61,0.83,1/13/2012 0:00,1.2,Partly cloudy until evening.
+8.66,partly-cloudy-day,0.53,5.44,0.8,12/9/2012 0:00,3.86,Mostly cloudy until evening.
+15.77,partly-cloudy-day,0.46,2.19,0.77,5/17/2012 23:00,9.11,Mostly cloudy throughout the day.
+19.32,partly-cloudy-day,0.46,3.83,0.78,8/6/2012 23:00,11.49,Partly cloudy throughout the day.
+0.73,partly-cloudy-day,0.89,3.92,0.78,2/8/2012 0:00,-2.1,Mostly cloudy throughout the day.
+1.41,partly-cloudy-day,0.29,4.71,0.59,2/2/2012 0:00,-1.76,Partly cloudy throughout the day.
+7.44,partly-cloudy-day,0.52,4.02,0.92,12/19/2012 0:00,3.07,Mostly cloudy throughout the day.
+19.16,partly-cloudy-day,0.19,1.76,0.61,3/28/2012 23:00,6.89,Partly cloudy in the afternoon.
+8.42,partly-cloudy-day,0.57,4.34,0.76,2/14/2012 0:00,4.54,Partly cloudy throughout the day.
+15.17,wind,0.68,8.64,0.78,6/7/2012 23:00,12.28,Breezy and mostly cloudy throughout the day.
+29.37,partly-cloudy-day,0.2,0.81,0.57,7/24/2012 23:00,15.74,Partly cloudy until evening.
+16.92,partly-cloudy-day,0.4,2.65,0.8,8/29/2012 23:00,11.25,Partly cloudy until evening.
+13.81,partly-cloudy-day,0.78,3.3,0.85,5/1/2012 23:00,9.73,Mostly cloudy throughout the day.
+24.43,partly-cloudy-day,0.47,3.98,0.75,5/21/2012 23:00,11.44,Partly cloudy until evening.
+14.03,partly-cloudy-day,0.29,4.35,0.78,4/21/2012 23:00,4.76,Partly cloudy throughout the day.
+9.19,fog,0.9,2,0.92,11/16/2012 0:00,5.91,Foggy until evening.
+6.58,fog,0.65,3.23,0.9,2/13/2012 0:00,1.09,Foggy in the morning.
+10.76,partly-cloudy-day,0.53,5.95,0.79,2/18/2012 0:00,3.2,Mostly cloudy until evening.
+21.15,partly-cloudy-day,0.36,2.35,0.7,6/24/2012 23:00,12.11,Partly cloudy throughout the day.
+22.66,partly-cloudy-day,0.57,2.94,0.82,6/26/2012 23:00,17.56,Partly cloudy throughout the day.
+20.93,partly-cloudy-day,0.52,3.94,0.88,8/24/2012 23:00,15.04,Partly cloudy throughout the day.
+9.75,partly-cloudy-day,0.89,4.2,0.76,3/16/2012 0:00,8.5,Mostly cloudy throughout the day.
+19.69,partly-cloudy-day,0.36,4.15,0.85,8/28/2012 23:00,13.66,Partly cloudy until evening.
+9.93,partly-cloudy-night,0.47,4.2,0.86,11/7/2012 0:00,4.97,Partly cloudy throughout the day.
+19.48,fog,0.07,1.01,0.74,3/23/2012 0:00,6.74,Foggy in the morning.
+10.34,wind,0.71,4.22,0.92,12/14/2012 0:00,1.93,Foggy in the morning and breezy in the evening.
+3.98,partly-cloudy-day,0.55,1.54,0.79,1/30/2012 0:00,1.24,Partly cloudy throughout the day.
+17.92,partly-cloudy-day,0.34,3.93,0.72,9/11/2012 23:00,8.24,Partly cloudy throughout the day.
+15,partly-cloudy-day,0.51,3.42,0.82,6/4/2012 23:00,7.54,Mostly cloudy throughout the day.
+13.64,partly-cloudy-day,0.25,0.4,0.87,10/6/2012 23:00,5.27,Partly cloudy throughout the day.
+25.98,partly-cloudy-day,0.13,3.3,0.56,5/26/2012 23:00,13.55,"Partly cloudy starting in the afternoon, continuing until evening."
+14.88,partly-cloudy-day,0.71,3.2,0.89,10/10/2012 23:00,9.15,Mostly cloudy throughout the day.
+8.92,partly-cloudy-day,0.7,4.6,0.76,4/4/2012 23:00,4.61,Mostly cloudy until evening.
+17.06,partly-cloudy-day,0.68,5.27,0.85,7/15/2012 23:00,13.05,Mostly cloudy throughout the day.
+12.59,partly-cloudy-day,0.58,4.92,0.9,1/1/2012 0:00,7.71,Partly cloudy throughout the day.
+11.23,partly-cloudy-day,0.5,4.13,0.82,11/19/2012 0:00,3.49,Mostly cloudy throughout the day.
+22.44,partly-cloudy-day,0.55,4.9,0.77,7/16/2012 23:00,13.92,Partly cloudy throughout the day.
+6.89,partly-cloudy-day,0.65,5.17,0.83,11/28/2012 0:00,3.45,Mostly cloudy throughout the day.
+20.18,partly-cloudy-day,0.48,4.41,0.73,7/18/2012 23:00,13.77,Partly cloudy throughout the day.
+9.87,partly-cloudy-night,0.22,1.98,0.88,11/11/2012 0:00,2.1,"Partly cloudy starting in the afternoon, continuing until evening."
+7.68,partly-cloudy-day,0.39,5.79,0.79,10/26/2012 23:00,2.49,Partly cloudy until evening.
+17.24,partly-cloudy-day,0.51,3.13,0.82,5/7/2012 23:00,10.43,Partly cloudy throughout the day.
+25.58,partly-cloudy-day,0.21,0.71,0.62,5/27/2012 23:00,13.89,Partly cloudy until evening.
+28.32,clear-day,0.02,0.87,0.58,7/23/2012 23:00,14.21,Clear throughout the day.
+5.79,partly-cloudy-night,0.34,1.43,0.83,1/17/2012 0:00,-1.45,Partly cloudy throughout the day.
+17.64,partly-cloudy-day,0.37,2.92,0.68,9/12/2012 23:00,8.62,Partly cloudy throughout the day.
+21.47,fog,0.17,1.18,0.89,9/23/2013 23:00,11.53,Foggy in the morning.
+26.19,partly-cloudy-day,0.37,1.6,0.62,7/25/2013 23:00,15.26,Mostly cloudy until evening.
+25.61,partly-cloudy-day,0.13,3.27,0.57,7/8/2013 23:00,12.01,Partly cloudy until afternoon.
+23.81,partly-cloudy-day,0.3,1.47,0.63,8/7/2013 23:00,11.83,Partly cloudy throughout the day.
+5.7,partly-cloudy-day,0.52,0.4,0.93,1/11/2013 0:00,0.89,Mostly cloudy until evening.
+7.26,partly-cloudy-day,0.64,4.25,0.8,2/28/2013 0:00,2.41,Mostly cloudy throughout the day.
+10.94,wind,0.67,3.97,0.8,5/13/2013 23:00,7.36,Overcast throughout the day and breezy overnight.
+7.49,partly-cloudy-day,0.43,4,0.82,1/1/2013 0:00,3.31,Partly cloudy throughout the day.
+18.41,partly-cloudy-day,0.51,2.45,0.75,9/19/2013 23:00,9.84,Mostly cloudy throughout the day.
+18.32,partly-cloudy-day,0.39,1.92,0.81,9/5/2013 23:00,13.26,Mostly cloudy until evening.
+21.13,partly-cloudy-day,0.36,1.09,0.9,8/21/2013 23:00,16.54,Mostly cloudy until evening.
+28.49,fog,0.12,0.78,0.71,9/4/2013 23:00,15.46,Foggy in the morning.
+26.03,partly-cloudy-day,0.51,3.44,0.71,7/20/2013 23:00,16.84,Mostly cloudy until afternoon.
+11.33,wind,0.35,5.45,0.81,12/14/2013 0:00,3.79,Partly cloudy until evening and breezy starting in the evening.
+16.51,wind,0.7,6.28,0.76,6/22/2013 23:00,12.62,Mostly cloudy until evening and breezy until afternoon.
+8.98,fog,0.16,2.28,0.94,12/12/2013 0:00,1.52,Foggy until afternoon.
+25.57,partly-cloudy-day,0.38,2.36,0.64,8/20/2013 23:00,12.72,Partly cloudy until evening.
+10.26,partly-cloudy-day,0.49,4.18,0.65,5/22/2013 23:00,6.27,Mostly cloudy throughout the day.
+7.06,partly-cloudy-day,0.41,1.9,0.9,11/9/2013 0:00,3.28,Mostly cloudy until evening.
+2.35,partly-cloudy-day,0.86,4.47,0.71,2/24/2013 0:00,0.85,Mostly cloudy throughout the day.
+10.07,partly-cloudy-day,0.25,5.66,0.73,12/22/2013 0:00,4.81,Partly cloudy until evening.
+20.16,partly-cloudy-day,0.93,3.46,0.87,6/27/2013 23:00,12.56,Mostly cloudy until evening.
+2.91,partly-cloudy-day,0.55,5.76,0.74,4/3/2013 23:00,0.98,Mostly cloudy throughout the day.
+10.79,partly-cloudy-day,0.83,4.28,0.85,1/4/2013 0:00,8.17,Mostly cloudy throughout the day.
+19.64,fog,0.52,0.88,0.89,9/22/2013 23:00,13.03,Foggy overnight.
+21.69,partly-cloudy-day,0.37,3.65,0.64,7/10/2013 23:00,11.99,Partly cloudy until evening.
+13.18,wind,0.56,4.83,0.78,5/10/2013 23:00,7.06,Mostly cloudy until evening and breezy in the evening.
+8.91,partly-cloudy-day,0.56,2.87,0.77,12/4/2013 0:00,2.35,Mostly cloudy until evening.
+8.27,wind,0.65,5.82,0.81,3/15/2013 0:00,2.99,Mostly cloudy throughout the day and breezy overnight.
+5.01,wind,0.69,7.92,0.79,3/22/2013 0:00,2.59,Mostly cloudy throughout the day and breezy until afternoon.
+6.78,partly-cloudy-day,0.19,3.57,0.74,11/19/2013 0:00,0.6,Partly cloudy until evening.
+24.62,partly-cloudy-day,0.29,0.63,0.65,7/4/2013 23:00,12.63,Partly cloudy until evening.
+16.91,partly-cloudy-day,0.36,2.1,0.86,10/23/2013 23:00,6.83,"Mostly cloudy starting in the afternoon, continuing until evening."
+11.73,partly-cloudy-day,0.51,3.44,0.85,12/13/2013 0:00,8.15,Mostly cloudy throughout the day.
+22.49,partly-cloudy-day,0.51,4.37,0.74,7/19/2013 23:00,16.34,Mostly cloudy until evening.
+24.03,partly-cloudy-day,0.31,3.91,0.64,8/29/2013 23:00,15.34,Partly cloudy throughout the day.
+7.19,clear-day,0.03,2.47,0.85,12/25/2013 0:00,3.74,Clear throughout the day.
+18.81,partly-cloudy-day,0.37,3.68,0.79,9/29/2013 23:00,13.21,Partly cloudy until evening.
+15.84,partly-cloudy-day,0.49,3.76,0.84,9/18/2013 23:00,8.33,Mostly cloudy until evening.
+23.19,partly-cloudy-day,0.22,3.88,0.64,7/9/2013 23:00,13.36,Partly cloudy until evening.
+20.87,fog,0.36,0.51,0.86,9/24/2013 23:00,13.67,Foggy in the morning.
+8.72,partly-cloudy-day,0.47,3.71,0.85,12/7/2013 0:00,6.55,Mostly cloudy until evening.
+13.85,partly-cloudy-day,0.69,2.95,0.89,9/13/2013 23:00,9.3,Mostly cloudy until evening.
+1.33,fog,0.67,5.2,0.85,1/18/2013 0:00,-1.93,Foggy until afternoon.
+20.88,partly-cloudy-day,0.23,4.28,0.68,6/5/2013 23:00,8.73,Partly cloudy in the morning.
+13.11,partly-cloudy-day,0.56,2.26,0.85,11/12/2013 0:00,6.08,Mostly cloudy until evening.
+16.06,fog,0.12,1.6,0.74,3/5/2013 0:00,1.87,Foggy in the morning.
+7.72,partly-cloudy-day,0.59,1.56,0.83,3/19/2013 0:00,2.81,Mostly cloudy throughout the day.
+15.43,partly-cloudy-day,0.42,5.4,0.72,4/14/2013 23:00,10.08,Partly cloudy until evening.
+23.38,partly-cloudy-day,0.37,0.85,0.69,8/27/2013 23:00,12.45,Mostly cloudy in the morning.
+10.26,wind,0.43,6.6,0.77,1/27/2013 0:00,4.72,Breezy in the morning and partly cloudy until evening.
+14.56,cloudy,0.95,1.67,0.68,6/9/2013 23:00,10.61,Overcast until evening.
+27.04,clear-day,0.1,1.86,0.75,9/3/2013 23:00,14.09,Clear throughout the day.
+14.12,partly-cloudy-day,0.28,2.14,0.64,4/20/2013 23:00,1.46,Partly cloudy throughout the day.
+5.53,partly-cloudy-day,0.39,3.57,0.71,2/7/2013 0:00,1.24,Partly cloudy throughout the day.
+9.14,partly-cloudy-day,0.35,1.4,0.87,11/16/2013 0:00,1.38,Mostly cloudy until evening.
+7.51,wind,0.69,6.75,0.85,3/16/2013 0:00,5.79,Breezy in the morning and mostly cloudy throughout the day.
+18.02,partly-cloudy-day,0.72,1.24,0.87,9/11/2013 23:00,12.58,Mostly cloudy throughout the day.
+9.25,partly-cloudy-day,0.27,2.57,0.72,11/15/2013 0:00,3.33,Partly cloudy until evening.
+9.3,fog,0.98,1.77,0.92,11/18/2013 0:00,7.37,Foggy in the morning.
+5.88,partly-cloudy-day,0.57,5.5,0.64,3/31/2013 23:00,1.1,Mostly cloudy until evening.
+13.71,partly-cloudy-day,0.22,2.84,0.62,4/29/2013 23:00,5.94,Partly cloudy until evening.
+12.89,wind,0.88,5.57,0.89,12/16/2013 0:00,7.95,Breezy in the morning and mostly cloudy until evening.
+7.3,partly-cloudy-day,0.64,2.1,0.88,3/17/2013 0:00,2.36,Mostly cloudy throughout the day.
+18.82,partly-cloudy-day,0.34,2.79,0.55,5/25/2013 23:00,6.24,Partly cloudy throughout the day.
+11.95,wind,0.86,8.91,0.86,12/21/2013 0:00,9.41,Breezy in the morning and overcast until evening.
+11.47,partly-cloudy-day,0.58,3.78,0.92,10/12/2013 23:00,8.87,Mostly cloudy until evening.
+17.7,partly-cloudy-day,0.26,3.43,0.75,9/6/2013 23:00,11.39,Mostly cloudy until evening.
+19.64,partly-cloudy-day,0.56,3.59,0.71,6/4/2013 23:00,8.96,Mostly cloudy throughout the day.
+1.36,partly-cloudy-day,0.81,4.79,0.63,2/22/2013 0:00,0.2,Mostly cloudy throughout the day.
+9.21,partly-cloudy-day,0.52,0.93,0.9,1/9/2013 0:00,1.77,Partly cloudy until evening.
+3.48,partly-cloudy-day,0.6,3.13,0.74,1/13/2013 0:00,1.04,Partly cloudy throughout the day.
+9.22,partly-cloudy-day,0.18,2.61,0.79,11/10/2013 0:00,2.58,"Partly cloudy starting in the afternoon, continuing until evening."
+9.42,partly-cloudy-day,0.55,1.02,0.83,12/1/2013 0:00,2.43,Mostly cloudy until evening.
+17.34,partly-cloudy-day,0.42,3.05,0.71,6/15/2013 23:00,11.46,Mostly cloudy until evening.
+26.24,partly-cloudy-day,0.34,3.59,0.67,7/23/2013 23:00,15.59,Partly cloudy throughout the day.
+18.09,cloudy,1,0.97,0.95,9/12/2013 23:00,14.78,Overcast until evening.
+7.83,partly-cloudy-day,0.58,2.2,0.8,3/3/2013 0:00,-1.14,Mostly cloudy throughout the day.
+21.68,partly-cloudy-day,0.54,3.45,0.72,5/30/2013 23:00,11.27,Mostly cloudy until evening.
+14.81,partly-cloudy-day,0.44,5.33,0.76,5/11/2013 23:00,6.04,Mostly cloudy until evening.
+16.96,wind,0.93,5.94,0.86,6/11/2013 23:00,14.16,Mostly cloudy until evening and breezy starting in the evening.
+11.59,partly-cloudy-day,0.27,3.27,0.64,4/27/2013 23:00,1.61,Partly cloudy throughout the day.
+17.54,wind,0.67,6.78,0.81,6/21/2013 23:00,12.01,Breezy and mostly cloudy until evening.
+18.36,partly-cloudy-day,0.17,4.46,0.81,9/27/2013 23:00,12.43,Partly cloudy until evening.
+22.11,partly-cloudy-day,0.41,1.35,0.68,8/5/2013 23:00,12.23,Mostly cloudy until evening.
+4.93,fog,0.86,4.34,0.91,2/26/2013 0:00,2.98,Foggy until afternoon.
+16.32,partly-cloudy-day,0.26,2.95,0.62,4/30/2013 23:00,4.42,Partly cloudy until evening.
+9.87,partly-cloudy-day,0.23,2.75,0.63,4/5/2013 23:00,0.64,Partly cloudy until afternoon.
+12.54,wind,0.68,6.12,0.91,12/15/2013 0:00,8.11,Mostly cloudy until evening and breezy starting in the evening.
+10.12,fog,0.11,0.4,0.79,2/19/2013 0:00,-1.43,Foggy overnight.
+5.31,partly-cloudy-day,0.59,3.52,0.63,3/29/2013 0:00,-0.52,Mostly cloudy throughout the day.
+20.07,partly-cloudy-day,0.27,4.16,0.6,6/3/2013 23:00,7.64,"Partly cloudy starting in the afternoon, continuing until evening."
+27.56,partly-cloudy-day,0.18,3.24,0.6,7/17/2013 23:00,17.5,Partly cloudy until evening.
+22.98,partly-cloudy-day,0.43,4.52,0.7,8/3/2013 23:00,14.79,Mostly cloudy until evening.
+14.56,partly-cloudy-day,0.59,1.94,0.67,5/17/2013 23:00,9.12,Mostly cloudy until evening.
+22.42,partly-cloudy-day,0.57,4.45,0.73,8/17/2013 23:00,15.92,Mostly cloudy until evening.
+2.38,partly-cloudy-day,0.58,3.28,0.85,1/15/2013 0:00,-0.83,Mostly cloudy until evening.
+18.66,partly-cloudy-day,0.26,2.84,0.66,6/2/2013 23:00,7.24,Partly cloudy throughout the day.
+4.69,partly-cloudy-day,0.66,2.02,0.72,3/2/2013 0:00,0.63,Mostly cloudy until evening.
+9.63,fog,0.68,2.2,0.93,3/7/2013 0:00,7.43,Foggy starting in the afternoon.
+7.34,partly-cloudy-day,0.63,5.89,0.61,4/4/2013 23:00,1.88,Partly cloudy throughout the day.
+12.13,partly-cloudy-day,0.67,1.48,0.86,5/27/2013 23:00,9.78,Mostly cloudy until evening.
+11.95,partly-cloudy-day,0.47,2.33,0.69,4/18/2013 23:00,6.17,Partly cloudy until evening.
+15.13,partly-cloudy-day,0.36,1.64,0.74,5/15/2013 23:00,4.17,Partly cloudy throughout the day.
+17.29,partly-cloudy-day,0.26,4.15,0.84,10/16/2013 23:00,11.82,Partly cloudy until evening.
+13.41,partly-cloudy-day,0.45,4.51,0.59,4/28/2013 23:00,7.98,Partly cloudy until evening.
+4.88,fog,0.68,4.86,0.78,2/20/2013 0:00,1.83,Foggy in the morning.
+19.35,partly-cloudy-day,0.33,3.03,0.74,4/23/2013 23:00,9.45,Partly cloudy until evening.
+8.81,partly-cloudy-day,0.7,3.87,0.83,4/8/2013 23:00,3.45,Mostly cloudy throughout the day.
+11,partly-cloudy-day,0.5,2,0.9,11/8/2013 0:00,5.29,Mostly cloudy until evening.
+20.22,wind,0.57,5.13,0.82,8/16/2013 23:00,14.12,Mostly cloudy throughout the day and breezy starting in the evening.
+11.01,partly-cloudy-day,0.32,2.69,0.89,12/9/2013 0:00,5.06,Mostly cloudy until evening.
+14.87,partly-cloudy-day,0.32,3.46,0.67,5/24/2013 23:00,5.64,Partly cloudy until evening.
+2.82,partly-cloudy-day,0.75,4.23,0.82,1/23/2013 0:00,1.38,Mostly cloudy throughout the day.
+13.97,partly-cloudy-day,0.55,2.95,0.89,11/1/2013 0:00,11.48,Mostly cloudy until evening.
+6.56,partly-cloudy-night,0.27,1.81,0.67,3/14/2013 0:00,-0.91,Partly cloudy throughout the day.
+20.99,partly-cloudy-day,0.22,1.13,0.63,5/5/2013 23:00,10.48,Partly cloudy until evening.
+17.28,wind,0.29,4.34,0.58,5/26/2013 23:00,6.32,"Partly cloudy throughout the day and breezy starting in the afternoon, continuing until evening."
+15.87,wind,0.32,7.05,0.81,10/26/2013 23:00,11.66,Breezy and mostly cloudy until evening.
+14.06,wind,0.61,6.61,0.68,5/12/2013 23:00,7.45,Breezy and mostly cloudy until evening.
+21.49,partly-cloudy-day,0.37,2.95,0.64,8/6/2013 23:00,14.97,Partly cloudy until evening.
+17.94,partly-cloudy-day,0.49,1.58,0.87,10/4/2013 23:00,13.67,Mostly cloudy throughout the day.
+18.84,partly-cloudy-day,0.69,1.96,0.9,9/21/2013 23:00,14.25,Mostly cloudy until evening.
+3.43,partly-cloudy-day,0.7,1.55,0.94,1/10/2013 0:00,1.16,Mostly cloudy throughout the day.
+13.16,wind,0.77,5.86,0.86,10/10/2013 23:00,8.66,Mostly cloudy until evening and breezy starting in the afternoon.
+1.75,partly-cloudy-day,0.69,4.99,0.65,3/26/2013 0:00,0.77,Mostly cloudy throughout the day.
+11.41,partly-cloudy-day,0.66,4.36,0.91,1/3/2013 0:00,9.65,Mostly cloudy throughout the day.
+12.38,partly-cloudy-day,0.25,4.77,0.77,10/29/2013 0:00,6.86,Partly cloudy until evening.
+11.82,partly-cloudy-day,0.45,6.07,0.68,10/9/2013 23:00,7.6,Partly cloudy throughout the day.
+5.59,partly-cloudy-day,0.41,3.08,0.78,2/8/2013 0:00,0.81,Partly cloudy throughout the day.
+11.3,fog,0.69,2.28,0.9,4/10/2013 23:00,5.93,Foggy in the morning.
+16.06,wind,0.49,7.68,0.81,10/28/2013 0:00,9,Breezy until afternoon and partly cloudy until evening.
+23.56,partly-cloudy-day,0.55,4.47,0.8,7/30/2013 23:00,16.49,Mostly cloudy until evening.
+16.96,partly-cloudy-day,0.2,2.9,0.43,5/1/2013 23:00,5.43,Partly cloudy until evening.
+13.14,partly-cloudy-day,0.16,2.21,0.66,4/19/2013 23:00,2.88,Partly cloudy until evening.
+23.53,partly-cloudy-day,0.37,1.6,0.6,8/19/2013 23:00,12.16,Partly cloudy until evening.
+18.03,partly-cloudy-day,0.44,4.84,0.86,10/21/2013 23:00,13.79,Mostly cloudy until evening.
+24.32,partly-cloudy-day,0.38,2.65,0.69,8/25/2013 23:00,16.37,Partly cloudy until evening.
+27.83,partly-cloudy-day,0.27,0.86,0.61,7/13/2013 23:00,17.28,"Mostly cloudy starting in the afternoon, continuing until evening."
+7.4,fog,0.6,1.29,0.9,12/17/2013 0:00,4.61,Foggy starting in the evening.
+16.53,wind,0.34,5.29,0.8,10/22/2013 23:00,9.99,Partly cloudy until evening and breezy until afternoon.
+12.39,partly-cloudy-day,0.56,3.96,0.83,11/5/2013 0:00,4.41,Mostly cloudy throughout the day.
+7.65,fog,0.33,2.86,0.83,2/18/2013 0:00,1.16,Foggy overnight.
+18.47,partly-cloudy-day,0.47,4.14,0.86,10/24/2013 23:00,13.16,Mostly cloudy until evening.
+27.28,partly-cloudy-day,0.26,0.63,0.68,7/26/2013 23:00,14.82,Partly cloudy until evening.
+16.96,partly-cloudy-day,0.61,3,0.83,6/10/2013 23:00,8.16,Mostly cloudy until evening.
+3.09,partly-cloudy-day,0.68,3.48,0.73,2/13/2013 0:00,0.6,Mostly cloudy throughout the day.
+5.56,partly-cloudy-day,0.43,4.97,0.71,2/2/2013 0:00,1.48,Partly cloudy until evening.
+16.27,wind,0.42,6.04,0.74,6/14/2013 23:00,11.01,Breezy and mostly cloudy until evening.
+17.04,partly-cloudy-day,0.42,4.29,0.89,10/19/2013 23:00,12.16,Mostly cloudy until evening.
+4.73,partly-cloudy-day,0.84,4.86,0.93,2/10/2013 0:00,1.06,Mostly cloudy throughout the day.
+13.09,wind,0.69,7.22,0.89,1/29/2013 0:00,9.76,Mostly cloudy throughout the day and breezy starting in the afternoon.
+17.17,wind,0.63,6.74,0.72,5/9/2013 23:00,10.2,Mostly cloudy until evening and breezy in the afternoon.
+16.22,partly-cloudy-day,0.79,4.21,0.78,5/20/2013 23:00,12.01,Mostly cloudy throughout the day.
+7.71,partly-cloudy-day,0.2,5.5,0.57,4/1/2013 23:00,0.04,Partly cloudy until evening.
+22.78,partly-cloudy-day,0.23,1.89,0.69,8/26/2013 23:00,12.82,Partly cloudy until evening.
+9.12,partly-cloudy-day,0.55,4.32,0.82,2/3/2013 0:00,0.11,Mostly cloudy throughout the day.
+19.78,partly-cloudy-day,0.44,3.94,0.63,6/30/2013 23:00,13.89,Mostly cloudy throughout the day.
+6.62,partly-cloudy-day,0.83,3.77,0.78,3/1/2013 0:00,2.58,Mostly cloudy throughout the day.
+9.76,partly-cloudy-day,0.41,2.49,0.77,2/15/2013 0:00,2.27,Partly cloudy throughout the day.
+14.08,wind,0.31,5.55,0.67,9/15/2013 23:00,8.24,Breezy until afternoon and partly cloudy until evening.
+13.11,partly-cloudy-day,0.74,4.42,0.89,10/31/2013 0:00,11.61,Mostly cloudy until evening.
+23.92,partly-cloudy-day,0.39,1.84,0.7,7/11/2013 23:00,12.01,Mostly cloudy until evening.
+20.82,partly-cloudy-day,0.62,4.04,0.87,10/3/2013 23:00,15.23,Mostly cloudy throughout the day.
+2.23,partly-cloudy-day,0.8,2.07,0.79,1/24/2013 0:00,-0.11,Mostly cloudy throughout the day.
+22.04,partly-cloudy-day,0.39,2.79,0.78,8/13/2013 23:00,11.04,Mostly cloudy until evening.
+19.51,fog,0.56,2.57,0.9,8/23/2013 23:00,14.94,Foggy in the morning.
+16.66,wind,0.49,6.35,0.85,10/25/2013 23:00,14.34,Mostly cloudy until evening and breezy overnight.
+14.32,partly-cloudy-day,0.66,4.12,0.74,4/21/2013 23:00,6.91,Mostly cloudy throughout the day.
+25.18,partly-cloudy-day,0.14,3.92,0.65,7/7/2013 23:00,14.99,"Partly cloudy starting in the afternoon, continuing until evening."
+17.5,partly-cloudy-day,0.6,3.08,0.72,7/1/2013 23:00,11.84,Mostly cloudy throughout the day.
+7.64,wind,0.49,2.27,0.92,12/26/2013 0:00,2.87,Mostly cloudy until afternoon and breezy overnight.
+7.23,partly-cloudy-night,0.47,2.17,0.72,11/26/2013 0:00,2.93,Mostly cloudy throughout the day.
+18.45,partly-cloudy-day,0.43,3.37,0.93,10/2/2013 23:00,14.03,Mostly cloudy until evening.
+10.32,partly-cloudy-day,0.88,1.35,0.89,11/27/2013 0:00,5.78,Mostly cloudy throughout the day.
+14.11,wind,0.35,8.12,0.64,4/17/2013 23:00,8.48,Breezy until afternoon and partly cloudy until evening.
+11.34,partly-cloudy-day,0.66,3.71,0.91,10/13/2013 23:00,8.62,Mostly cloudy until evening.
+16.1,partly-cloudy-day,0.52,4.16,0.66,6/23/2013 23:00,10.62,Mostly cloudy until evening.
+25.17,partly-cloudy-day,0.32,4.28,0.67,6/29/2013 23:00,14.92,Partly cloudy until evening.
+7.89,partly-cloudy-day,0.27,4.31,0.76,11/22/2013 0:00,3.52,Partly cloudy until evening.
+19.87,partly-cloudy-day,0.12,3.37,0.6,8/30/2013 23:00,14.22,Partly cloudy until afternoon.
+21.19,partly-cloudy-day,0.35,3.36,0.61,6/28/2013 23:00,13.42,Partly cloudy until evening.
+16.49,partly-cloudy-day,0.75,4.01,0.77,9/10/2013 23:00,12.47,Mostly cloudy until evening.
+20.61,partly-cloudy-day,0.42,1.98,0.64,6/25/2013 23:00,10.14,Mostly cloudy until evening.
+9.94,partly-cloudy-day,0.45,2.3,0.82,11/13/2013 0:00,2.11,Mostly cloudy throughout the day.
+1.81,partly-cloudy-day,0.68,5.95,0.65,3/25/2013 0:00,0.71,Mostly cloudy throughout the day.
+4.53,partly-cloudy-day,0.57,4.76,0.83,1/12/2013 0:00,1.75,Mostly cloudy throughout the day.
+0.08,fog,0.85,3.18,0.91,1/20/2013 0:00,-1.45,Foggy until evening.
+22.08,partly-cloudy-day,0.27,3.2,0.72,4/24/2013 23:00,11.38,Partly cloudy throughout the day.
+22.76,partly-cloudy-day,0.45,3.8,0.62,8/10/2013 23:00,15.42,Partly cloudy until evening.
+12.63,cloudy,0.65,3.65,0.91,11/11/2013 0:00,2.53,Overcast until evening.
+2.94,partly-cloudy-day,0.59,2.08,0.88,1/14/2013 0:00,-0.41,Mostly cloudy throughout the day.
+24.94,partly-cloudy-day,0.33,3.28,0.7,9/1/2013 23:00,11.88,Partly cloudy until evening.
+2.24,partly-cloudy-day,0.86,2.87,0.76,2/12/2013 0:00,1.14,Mostly cloudy throughout the day.
+19.88,wind,0.45,6.56,0.7,4/13/2013 23:00,11.49,Partly cloudy throughout the day and breezy in the afternoon.
+10.2,wind,0.5,6.82,0.71,2/4/2013 0:00,6.48,Partly cloudy throughout the day and breezy overnight.
+10.82,partly-cloudy-night,0.61,3.72,0.91,1/2/2013 0:00,3.31,Mostly cloudy throughout the day.
+10.42,wind,0.36,5.52,0.79,12/20/2013 0:00,2.63,Mostly cloudy until evening and breezy starting in the evening.
+13.64,wind,0.71,5.86,0.71,5/14/2013 23:00,7,Breezy in the morning and mostly cloudy until evening.
+11.3,partly-cloudy-day,0.6,2.35,0.76,5/16/2013 23:00,7.2,Mostly cloudy until evening.
+18.18,partly-cloudy-day,0.56,2.8,0.87,9/20/2013 23:00,10.33,Mostly cloudy until evening.
+20.38,partly-cloudy-day,0.55,3.59,0.81,6/20/2013 23:00,14.11,Mostly cloudy until evening.
+17.06,partly-cloudy-day,0.36,5.44,0.69,6/7/2013 23:00,9.16,Partly cloudy until evening.
+27.13,partly-cloudy-day,0.37,1.84,0.74,7/22/2013 23:00,19.29,Partly cloudy until evening.
+2.28,partly-cloudy-day,0.8,5.58,0.59,2/21/2013 0:00,0.86,Mostly cloudy throughout the day.
+13.57,partly-cloudy-day,0.33,3.67,0.8,10/30/2013 0:00,4.47,Partly cloudy until evening.
+16.31,partly-cloudy-day,0.34,5.16,0.64,5/3/2013 23:00,8.05,Partly cloudy throughout the day.
+10.29,wind,0.64,5.85,0.88,12/18/2013 0:00,5.01,Mostly cloudy until evening and breezy starting in the evening.
+14.02,partly-cloudy-day,0.74,3.25,0.7,5/21/2013 23:00,9.58,Mostly cloudy until evening.
+9.7,partly-cloudy-day,0.36,3.99,0.78,12/19/2013 0:00,3.68,Partly cloudy throughout the day.
+3.86,wind,0.54,6.81,0.63,3/12/2013 0:00,-1.89,Breezy until afternoon and partly cloudy throughout the day.
+18.57,fog,0.47,2.43,0.87,10/6/2013 23:00,10.37,Foggy in the morning.
+21.66,partly-cloudy-day,0.51,3.86,0.84,8/15/2013 23:00,16.98,Mostly cloudy until evening.
+17.53,partly-cloudy-day,0.53,4.81,0.87,10/20/2013 23:00,13.26,Mostly cloudy until evening.
+10.36,partly-cloudy-day,0.39,2.7,0.71,4/26/2013 23:00,4.02,Partly cloudy throughout the day.
+17.59,wind,0.78,6.8,0.75,6/12/2013 23:00,12.96,Breezy and mostly cloudy until evening.
+19.02,fog,0.59,3.51,0.87,10/1/2013 23:00,13.62,Foggy overnight.
+24.64,partly-cloudy-day,0.42,3.89,0.71,8/1/2013 23:00,17.41,Mostly cloudy until evening.
+16.81,partly-cloudy-day,0.52,3.21,0.77,5/7/2013 23:00,11.33,Mostly cloudy throughout the day.
+14.17,partly-cloudy-day,0.43,2.36,0.83,10/11/2013 23:00,8.46,Mostly cloudy until evening.
+17.79,partly-cloudy-day,0.36,2.26,0.68,5/4/2013 23:00,6.87,Mostly cloudy until evening.
+13.7,partly-cloudy-day,0.61,3.33,0.84,9/16/2013 23:00,8.19,Mostly cloudy until evening.
+0.85,partly-cloudy-day,0.84,4.16,0.86,1/19/2013 0:00,-0.65,Mostly cloudy throughout the day.
+9.61,fog,0.83,1.75,0.96,3/8/2013 0:00,8.02,Foggy throughout the day.
+23.19,partly-cloudy-day,0.31,2.75,0.56,8/28/2013 23:00,14.16,Partly cloudy throughout the day.
+20.4,partly-cloudy-day,0.5,4.6,0.66,6/16/2013 23:00,12.87,Mostly cloudy throughout the day.
+8.03,partly-cloudy-day,0.49,2.83,0.85,2/1/2013 0:00,4.16,Partly cloudy throughout the day.
+19.62,partly-cloudy-day,0.55,3.13,0.85,10/7/2013 23:00,13.36,Mostly cloudy throughout the day.
+20.19,partly-cloudy-day,0.47,1.34,0.81,6/19/2013 23:00,16.22,Mostly cloudy until evening.
+13.28,partly-cloudy-day,0.51,3.42,0.65,4/25/2013 23:00,7.05,Partly cloudy until evening.
+17.52,partly-cloudy-day,0.52,3.06,0.91,10/18/2013 23:00,13.21,Mostly cloudy until evening.
+7.85,partly-cloudy-day,0.38,3.92,0.7,12/6/2013 0:00,2.73,Partly cloudy until evening.
+3.45,partly-cloudy-day,0.81,5.05,0.82,3/10/2013 0:00,1.23,Mostly cloudy throughout the day.
+10.13,partly-cloudy-day,0.48,1.11,0.7,2/16/2013 0:00,3.7,Partly cloudy throughout the day.
+27.28,partly-cloudy-day,0.12,2.5,0.66,7/6/2013 23:00,14.99,"Partly cloudy starting in the afternoon, continuing until evening."
+23.85,partly-cloudy-day,0.48,3,0.67,8/8/2013 23:00,15.68,Mostly cloudy until evening.
+16.87,cloudy,0.81,3.7,0.84,5/19/2013 23:00,11.38,Overcast until evening.
+22.89,partly-cloudy-day,0.44,3.97,0.76,7/3/2013 23:00,12.48,Mostly cloudy throughout the day.
+1.22,wind,0.6,8.17,0.73,3/11/2013 0:00,-1.57,Breezy and partly cloudy throughout the day.
+4.87,partly-cloudy-day,0.66,3.61,0.69,3/30/2013 0:00,0.94,Mostly cloudy throughout the day.
+16.55,partly-cloudy-day,0.4,5.75,0.7,4/15/2013 23:00,9.63,Partly cloudy until evening.
+7.29,partly-cloudy-day,0.73,3.33,0.77,11/25/2013 0:00,4.54,Mostly cloudy until evening.
+7.35,partly-cloudy-day,0.5,0.73,0.91,3/18/2013 0:00,-0.22,Mostly cloudy throughout the day.
+1.53,partly-cloudy-day,0.83,6.06,0.78,3/24/2013 0:00,-0.32,Mostly cloudy throughout the day.
+14.28,wind,0.47,7.13,0.71,5/8/2013 23:00,7.28,Breezy and mostly cloudy throughout the day.
+13.14,fog,0.17,2.41,0.72,3/6/2013 0:00,7.65,Foggy overnight.
+29.2,partly-cloudy-day,0.46,0.48,0.56,7/15/2013 23:00,17.03,Mostly cloudy throughout the day.
+1.88,partly-cloudy-day,0.87,3.36,0.93,2/11/2013 0:00,0.55,Mostly cloudy throughout the day.
+4.08,partly-cloudy-day,0.5,3.57,0.66,3/28/2013 0:00,-0.89,Mostly cloudy throughout the day.
+25.56,partly-cloudy-day,0.31,0.95,0.76,6/18/2013 23:00,15.81,Mostly cloudy until evening.
+9.99,partly-cloudy-day,0.36,4.97,0.65,4/7/2013 23:00,3.47,Partly cloudy until evening.
+11.95,wind,0.58,8.48,0.84,12/23/2013 0:00,5.14,Overcast until evening and windy throughout the day.
+19.82,partly-cloudy-day,0.16,2.07,0.6,5/6/2013 23:00,8.63,"Partly cloudy starting in the afternoon, continuing until evening."
+23.17,partly-cloudy-day,0.34,4.85,0.71,8/2/2013 23:00,15.36,Mostly cloudy until evening.
+20.25,partly-cloudy-day,0.46,3.48,0.68,4/22/2013 23:00,10.02,Partly cloudy until evening.
+27.27,partly-cloudy-day,0.18,4.26,0.57,7/18/2013 23:00,15.62,Partly cloudy until evening.
+4.96,partly-cloudy-day,0.4,2.8,0.68,3/31/2013 0:00,-1.54,Mostly cloudy until morning.
+9.49,partly-cloudy-night,0.33,2.79,0.84,2/17/2013 0:00,2.16,Partly cloudy throughout the day.
+8.38,partly-cloudy-day,0.5,3.68,0.73,11/30/2013 0:00,3.53,Mostly cloudy until evening.
+2.82,fog,0.53,3.44,0.88,1/22/2013 0:00,-3.73,Foggy in the morning.
+18.88,partly-cloudy-day,0.51,3.1,0.79,9/25/2013 23:00,13.12,Mostly cloudy throughout the day.
+15.08,wind,0.43,4.55,0.82,11/2/2013 0:00,10.27,Mostly cloudy until afternoon and breezy starting in the evening.
+11.51,partly-cloudy-day,0.54,3.04,0.87,4/11/2013 23:00,7.09,Partly cloudy throughout the day.
+11.24,partly-cloudy-day,0.35,4.56,0.83,12/8/2013 0:00,5.09,Partly cloudy until evening.
+9.9,cloudy,0.96,1.23,0.87,11/28/2013 0:00,8.08,Overcast until evening.
+9.98,partly-cloudy-day,0.29,2.94,0.82,11/4/2013 0:00,4.78,Partly cloudy until evening.
+8.99,partly-cloudy-day,0.27,3.66,0.78,3/4/2013 0:00,2.14,"Partly cloudy starting in the afternoon, continuing until evening."
+10.36,partly-cloudy-day,0.59,4.72,0.85,12/31/2013 0:00,5.77,Mostly cloudy until evening.
+11.43,wind,0.22,5.3,0.74,11/3/2013 0:00,7.56,Breezy until afternoon and partly cloudy until evening.
+11.23,partly-cloudy-day,0.76,3.71,0.87,1/8/2013 0:00,9.02,Mostly cloudy throughout the day.
+12.79,partly-cloudy-day,0.76,2.14,0.87,5/28/2013 23:00,8.38,Mostly cloudy throughout the day.
+10.59,partly-cloudy-day,0.55,2.96,0.81,2/14/2013 0:00,4.07,Partly cloudy until evening.
+19.8,partly-cloudy-day,0.43,3.63,0.69,8/12/2013 23:00,11.46,Mostly cloudy until evening.
+29.3,partly-cloudy-day,0.4,0.84,0.45,7/14/2013 23:00,17.96,Partly cloudy throughout the day.
+6.4,fog,0.03,1.45,0.93,12/11/2013 0:00,2.06,Foggy until afternoon.
+9.08,partly-cloudy-day,0.84,3.27,0.92,1/7/2013 0:00,7.1,Mostly cloudy throughout the day.
+21.07,partly-cloudy-day,0.33,3.36,0.63,8/31/2013 23:00,10.17,Partly cloudy until evening.
+17.34,partly-cloudy-day,0.38,3.35,0.65,5/31/2013 23:00,10.77,Mostly cloudy until evening.
+17.85,partly-cloudy-day,0.32,2.12,0.7,5/18/2013 23:00,8.91,Mostly cloudy until evening.
+16.99,partly-cloudy-day,0.36,3.45,0.8,9/26/2013 23:00,10.58,Mostly cloudy until evening.
+10.59,fog,0.61,1.07,0.79,4/9/2013 23:00,2.98,Foggy in the morning.
+4.39,partly-cloudy-day,0.84,4.8,0.83,2/25/2013 0:00,1.74,Mostly cloudy throughout the day.
+19.64,partly-cloudy-day,0.38,4.3,0.66,6/6/2013 23:00,10.02,Mostly cloudy until evening.
+21.73,partly-cloudy-day,0.49,2.82,0.57,8/9/2013 23:00,14.1,Mostly cloudy until evening.
+2.88,partly-cloudy-day,0.31,1.01,0.83,1/17/2013 0:00,-3.86,Partly cloudy throughout the day.
+5.87,partly-cloudy-day,0.78,2.37,0.86,3/20/2013 0:00,2.37,Mostly cloudy throughout the day.
+17.36,partly-cloudy-day,0.45,4.76,0.79,9/28/2013 23:00,13.44,Mostly cloudy throughout the day.
+9.42,partly-cloudy-day,0.86,1.36,0.79,12/2/2013 0:00,6.59,Mostly cloudy until evening.
+15.36,wind,0.41,4.65,0.86,9/14/2013 23:00,6.72,"Breezy and mostly cloudy starting in the afternoon, continuing until evening."
+16.65,partly-cloudy-day,0.64,4.22,0.77,9/9/2013 23:00,9.38,Mostly cloudy until evening.
+6.16,partly-cloudy-day,0.61,6.04,0.75,2/6/2013 0:00,2.86,Mostly cloudy throughout the day.
+10.18,partly-cloudy-day,0.62,4.4,0.77,11/29/2013 0:00,6.56,Mostly cloudy until evening.
+7.91,partly-cloudy-day,0.48,4.83,0.78,11/21/2013 0:00,3.12,Partly cloudy until evening.
+20.39,partly-cloudy-day,0.41,3.6,0.61,8/11/2013 23:00,13.57,Mostly cloudy throughout the day.
+11.93,partly-cloudy-day,0.4,6.67,0.81,12/24/2013 0:00,5.43,Mostly cloudy until afternoon.
+-0.06,fog,0.48,0.93,0.91,1/16/2013 0:00,-2.32,Foggy in the morning.
+29.16,partly-cloudy-day,0.11,0.86,0.67,7/12/2013 23:00,15.01,Partly cloudy in the afternoon.
+9.57,fog,1,0.87,0.87,11/17/2013 0:00,8.28,Foggy starting in the evening.
+19.71,partly-cloudy-day,0.34,2.71,0.56,5/2/2013 23:00,4.48,Partly cloudy throughout the day.
+22.74,partly-cloudy-day,0.5,2.66,0.83,8/24/2013 23:00,13.18,Mostly cloudy until evening.
+3.82,partly-cloudy-day,0.48,3.95,0.64,3/27/2013 0:00,-0.29,Partly cloudy throughout the day.
+18.81,partly-cloudy-day,0.45,4.12,0.69,6/13/2013 23:00,9.13,Mostly cloudy until evening.
+11.42,wind,0.57,4.42,0.87,4/12/2013 23:00,4.92,Mostly cloudy throughout the day and breezy overnight.
+23.46,partly-cloudy-day,0.55,4.44,0.79,8/14/2013 23:00,16.64,Mostly cloudy throughout the day.
+25.13,partly-cloudy-day,0.45,3.05,0.74,7/24/2013 23:00,16.63,Mostly cloudy until evening.
+9.94,wind,0.35,7.3,0.74,1/31/2013 0:00,7.12,Partly cloudy throughout the day and breezy in the morning.
+3.06,fog,0.85,6.42,0.92,3/23/2013 0:00,0.92,Foggy in the morning.
+8.02,partly-cloudy-day,0.77,3.55,0.78,11/24/2013 0:00,5.06,Mostly cloudy until evening.
+14.87,fog,0.44,1.84,0.91,10/15/2013 23:00,6.76,Foggy in the morning.
+14.7,partly-cloudy-day,0.66,2.89,0.83,11/7/2013 0:00,7.37,Mostly cloudy throughout the day.
+17.16,partly-cloudy-day,0.49,2.76,0.91,10/17/2013 23:00,10.5,Mostly cloudy throughout the day.
+20.91,partly-cloudy-day,0.49,3.99,0.86,7/29/2013 23:00,15.64,Mostly cloudy throughout the day.
+10.54,wind,0.47,5.95,0.84,1/28/2013 0:00,3.02,"Mostly cloudy throughout the day and breezy starting in the afternoon, continuing until evening."
+10.29,wind,0.44,6.12,0.73,12/5/2013 0:00,1.08,Mostly cloudy throughout the day and breezy until afternoon.
+10.37,partly-cloudy-day,0.4,2.04,0.62,4/6/2013 23:00,-1.21,Mostly cloudy throughout the day.
+14.69,partly-cloudy-day,0.94,3.44,0.86,5/29/2013 23:00,10.79,Mostly cloudy until evening.
+22.36,partly-cloudy-day,0.55,5.42,0.75,7/28/2013 23:00,16.48,Mostly cloudy throughout the day.
+4.09,partly-cloudy-day,0.45,5.84,0.64,4/2/2013 23:00,0.48,Mostly cloudy throughout the day.
+30.28,partly-cloudy-day,0.23,1.24,0.54,7/16/2013 23:00,17.14,Partly cloudy until evening.
+32.4,partly-cloudy-day,0.2,3.68,0.65,7/31/2013 23:00,16.98,Partly cloudy in the morning.
+3.68,partly-cloudy-day,0.7,0.68,0.86,2/9/2013 0:00,1.58,Mostly cloudy throughout the day.
+7.56,wind,0.51,3.61,0.86,1/26/2013 0:00,2.37,Partly cloudy throughout the day and breezy overnight.
+7.56,partly-cloudy-night,0.12,3.07,0.84,12/29/2013 0:00,0.72,"Partly cloudy starting in the afternoon, continuing until evening."
+22.02,partly-cloudy-day,0.27,3.25,0.59,8/18/2013 23:00,12.68,Partly cloudy until evening.
+19.69,partly-cloudy-day,0.83,3.67,0.79,7/2/2013 23:00,14.31,Mostly cloudy throughout the day.
+6.11,partly-cloudy-day,0.69,4.4,0.83,2/27/2013 0:00,2.33,Mostly cloudy throughout the day.
+8.01,fog,0.84,2.52,0.9,3/9/2013 0:00,3.88,Foggy in the morning.
+26.47,partly-cloudy-day,0.12,1.34,0.63,7/5/2013 23:00,13.48,Partly cloudy until afternoon.
+10.22,wind,0.55,6.58,0.83,12/30/2013 0:00,6.4,Breezy until afternoon and mostly cloudy until evening.
+6.42,partly-cloudy-day,0.37,3.65,0.73,3/13/2013 0:00,1.14,Partly cloudy throughout the day.
+7.22,cloudy,0.97,0.96,0.72,12/3/2013 0:00,3.66,Overcast throughout the day.
+20.33,partly-cloudy-day,0.4,0.97,0.78,6/17/2013 23:00,13.33,Mostly cloudy until evening.
+10.66,partly-cloudy-day,0.72,3.15,0.92,1/5/2013 0:00,7.84,Mostly cloudy until evening.
+18.83,partly-cloudy-day,0.27,2.4,0.59,6/1/2013 23:00,9.72,Partly cloudy until evening.
+23.92,partly-cloudy-day,0.33,0.5,0.76,9/2/2013 23:00,14.04,Mostly cloudy until evening.
+16.86,partly-cloudy-day,0.37,2.74,0.8,9/7/2013 23:00,9.13,Mostly cloudy until evening.
+22.72,partly-cloudy-day,0.54,3.13,0.76,8/4/2013 23:00,16.23,Mostly cloudy throughout the day.
+6.44,partly-cloudy-day,0.48,7.3,0.73,2/5/2013 0:00,2.16,Partly cloudy throughout the day.
+26.03,partly-cloudy-day,0.11,3.34,0.75,8/22/2013 23:00,16.34,Partly cloudy in the afternoon.
+6.27,partly-cloudy-day,0.61,4.73,0.75,3/21/2013 0:00,1.18,Mostly cloudy throughout the day.
+19.19,partly-cloudy-day,0.41,1.53,0.82,10/5/2013 23:00,8.76,Mostly cloudy until evening.
+14.87,wind,0.62,4.86,0.88,11/6/2013 0:00,9.31,Mostly cloudy until evening and breezy starting in the evening.
+17.95,wind,0.54,5.53,0.77,4/16/2013 23:00,9.66,Partly cloudy throughout the day and breezy starting in the evening.
+12.56,wind,0.44,7.85,0.77,1/30/2013 0:00,7.51,"Partly cloudy until evening and breezy starting in the afternoon, continuing until evening."
+10.99,wind,0.37,7.86,0.75,12/27/2013 0:00,7.47,Breezy until afternoon and partly cloudy until evening.
+8.61,fog,0.67,2.23,0.96,1/6/2013 0:00,6.91,Foggy until afternoon.
+6.38,partly-cloudy-day,0.52,3.41,0.85,11/20/2013 0:00,-1.27,Mostly cloudy until evening.
+23.14,partly-cloudy-day,0.44,5.02,0.73,7/27/2013 23:00,15.34,Partly cloudy until evening.
+2.98,partly-cloudy-day,0.74,3.2,0.8,1/25/2013 0:00,-1.19,Mostly cloudy throughout the day.
+19.23,partly-cloudy-day,0.54,2.69,0.69,6/26/2013 23:00,12.2,Mostly cloudy until evening.
+14.17,partly-cloudy-day,0.89,4.59,0.72,6/8/2013 23:00,10.29,Mostly cloudy until evening.
+7.41,partly-cloudy-day,0.46,3.37,0.82,11/23/2013 0:00,3.41,Mostly cloudy throughout the day.
+16.48,partly-cloudy-day,0.55,3.89,0.76,10/8/2013 23:00,9.04,Mostly cloudy until evening.
+15.18,partly-cloudy-day,0.61,3.44,0.78,9/17/2013 23:00,10.77,Mostly cloudy until evening.
+1.17,partly-cloudy-day,0.68,1.22,0.9,1/21/2013 0:00,-1.98,Mostly cloudy until evening.
+12.58,fog,0.45,2.97,0.88,10/14/2013 23:00,8.75,Foggy overnight.
+32.16,partly-cloudy-day,0.28,1.62,0.63,7/21/2013 23:00,17.21,Partly cloudy throughout the day.
+8.21,partly-cloudy-day,0.65,2.24,0.84,5/23/2013 23:00,5.43,Mostly cloudy throughout the day.
+9.03,fog,0.23,1.35,0.91,12/10/2013 0:00,2.06,Foggy in the morning.
+17.28,partly-cloudy-day,0.54,4.02,0.82,9/30/2013 23:00,11.76,Mostly cloudy throughout the day.
+9.62,partly-cloudy-day,0.32,4.6,0.74,11/14/2013 0:00,5.18,Partly cloudy until evening.
+18.76,partly-cloudy-day,0.42,1.95,0.57,6/24/2013 23:00,11.26,Mostly cloudy until evening.
+1.74,partly-cloudy-day,0.83,3.92,0.68,2/23/2013 0:00,0.19,Mostly cloudy throughout the day.
+10.63,clear-day,0.03,1.61,0.88,9/8/2013 23:00,9.2,Clear throughout the day.
+7.81,partly-cloudy-day,0.11,3.17,0.77,12/28/2013 0:00,2.86,Partly cloudy until afternoon.
+8.91,cloudy,0.46,3.25,0.9,1/12/2014 0:00,0.38,"Overcast starting in the afternoon, continuing until evening."
+8.01,partly-cloudy-day,0.54,2.43,0.83,1/24/2014 0:00,2.76,Mostly cloudy until evening.
+6.82,partly-cloudy-day,0.29,2.5,0.81,1/14/2014 0:00,2.05,Partly cloudy until evening.
+11.94,wind,0.66,7.1,0.76,2/23/2014 0:00,8.67,Mostly cloudy until evening and breezy until afternoon.
+9.37,partly-cloudy-day,0.33,1.72,0.8,1/19/2014 0:00,3.34,Partly cloudy until evening.
+9.12,partly-cloudy-day,0.61,4.32,0.83,1/28/2014 0:00,5.03,Mostly cloudy throughout the day.
+12.4,partly-cloudy-day,0.4,3.22,0.76,3/10/2014 0:00,5.04,Mostly cloudy throughout the day.
+14.23,wind,0.5,5.02,0.74,2/24/2014 0:00,7.99,Mostly cloudy until evening and breezy overnight.
+7.37,partly-cloudy-day,0.36,5.83,0.68,2/13/2014 0:00,4.09,Partly cloudy until evening.
+15.97,partly-cloudy-day,0.41,2.68,0.75,3/7/2014 0:00,6.84,Mostly cloudy until evening.
+13.38,partly-cloudy-day,0.42,4.24,0.78,3/6/2014 0:00,5.82,Mostly cloudy throughout the day.
+9.81,partly-cloudy-day,0.67,4.98,0.82,2/6/2014 0:00,5.86,Mostly cloudy until evening.
+7.51,wind,0.41,4.62,0.76,2/11/2014 0:00,2.77,Mostly cloudy until evening and breezy in the morning.
+5.46,cloudy,0.93,4.25,0.9,1/29/2014 0:00,3.72,Overcast until evening.
+10.05,partly-cloudy-day,0.59,5.4,0.83,3/2/2014 0:00,2.54,Mostly cloudy until evening.
+10.02,partly-cloudy-day,0.69,2.13,0.87,1/22/2014 0:00,6.12,Mostly cloudy until evening.
+8.48,fog,0.46,2.49,0.82,3/26/2014 0:00,2.51,Foggy in the morning.
+8.83,wind,0.73,4.74,0.91,1/31/2014 0:00,1.97,Overcast throughout the day and breezy starting in the evening.
+9.98,partly-cloudy-day,0.13,3.34,0.76,2/16/2014 0:00,2.34,"Partly cloudy starting in the afternoon, continuing until evening."
+10.72,partly-cloudy-day,0.58,5.01,0.83,1/16/2014 0:00,7.27,Mostly cloudy until evening.
+11.63,partly-cloudy-day,0.25,4.77,0.71,2/22/2014 0:00,4.72,Partly cloudy until evening.
+7.95,partly-cloudy-day,0.38,5.29,0.79,1/27/2014 0:00,2.56,Mostly cloudy until evening.
+9.72,wind,0.19,6.97,0.76,2/1/2014 0:00,4.83,Partly cloudy until evening and breezy overnight.
+13.57,partly-cloudy-day,0.45,3.3,0.76,3/17/2014 0:00,6.41,Mostly cloudy throughout the day.
+16.38,fog,0.04,2.03,0.72,3/14/2014 0:00,4.22,Foggy in the morning.
+13.13,partly-cloudy-day,0.58,5.79,0.71,3/18/2014 0:00,7.66,Mostly cloudy throughout the day.
+10.13,partly-cloudy-day,0.64,3.29,0.87,2/19/2014 0:00,5.19,Mostly cloudy until evening.
+15.92,partly-cloudy-day,0.23,3.85,0.65,3/8/2014 0:00,7.91,Mostly cloudy in the morning.
+9.64,wind,0.73,7.86,0.77,2/5/2014 0:00,5.54,Breezy and mostly cloudy throughout the day.
+8.18,wind,0.52,8.05,0.66,2/9/2014 0:00,4.78,Breezy until afternoon and mostly cloudy until evening.
+11.96,wind,0.44,4.4,0.87,1/5/2014 0:00,1.72,Mostly cloudy until evening and breezy starting in the evening.
+8.78,partly-cloudy-day,0.55,1.66,0.84,2/10/2014 0:00,4.08,Mostly cloudy throughout the day.
+11.62,partly-cloudy-day,0.5,4.15,0.85,1/8/2014 0:00,7.37,Mostly cloudy until evening.
+8.47,partly-cloudy-day,0.47,4.68,0.87,1/17/2014 0:00,6.43,Partly cloudy until evening.
+9.72,partly-cloudy-day,0.37,4,0.83,1/13/2014 0:00,5.42,Partly cloudy until evening.
+11.19,partly-cloudy-day,0.77,4.63,0.9,1/15/2014 0:00,6.41,Mostly cloudy until evening.
+12.02,wind,0.67,6.6,0.81,2/14/2014 0:00,3.47,Overcast until evening and windy starting in the evening.
+8.86,partly-cloudy-day,0.59,3.13,0.78,3/25/2014 0:00,5.66,Mostly cloudy until evening.
+19.82,partly-cloudy-day,0.31,2.18,0.62,3/30/2014 0:00,8.53,"Mostly cloudy starting in the afternoon, continuing until evening."
+9.7,partly-cloudy-day,0.31,2.06,0.79,3/4/2014 0:00,1.4,Mostly cloudy until evening.
+12.12,wind,0.32,5.16,0.69,3/21/2014 0:00,6.93,Partly cloudy until evening and breezy overnight.
+15.08,partly-cloudy-day,0.37,4.82,0.71,3/19/2014 0:00,7.48,Mostly cloudy until evening.
+11.77,wind,0.44,4,0.83,1/25/2014 0:00,5.68,"Foggy in the morning and breezy starting in the afternoon, continuing until evening."
+10.75,wind,0.4,4.89,0.82,1/2/2014 0:00,6.54,Partly cloudy until evening and breezy overnight.
+8.08,partly-cloudy-day,0.55,1.33,0.85,3/3/2014 0:00,3.18,Mostly cloudy until evening.
+12.57,wind,0.58,8.3,0.78,1/6/2014 0:00,9.34,Mostly cloudy until evening and breezy starting in the afternoon.
+10.13,partly-cloudy-day,0.57,3.06,0.87,2/18/2014 0:00,5.85,Mostly cloudy throughout the day.
+9.21,partly-cloudy-day,0.26,1.64,0.77,3/1/2014 0:00,3.05,Partly cloudy until afternoon.
+8.88,wind,0.42,5.3,0.75,2/4/2014 0:00,4.22,Mostly cloudy until evening and breezy starting in the evening.
+18.76,partly-cloudy-day,0.14,4.31,0.64,3/16/2014 0:00,7.14,"Partly cloudy starting in the afternoon, continuing until evening."
+8.44,partly-cloudy-day,0.32,3.98,0.82,1/23/2014 0:00,3.35,Partly cloudy until evening.
+15.37,fog,0.14,1.97,0.78,3/12/2014 0:00,3.73,Foggy overnight.
+16.37,partly-cloudy-day,0.32,1.92,0.67,3/30/2014 23:00,10.98,Mostly cloudy until evening.
+12.5,partly-cloudy-day,0.61,5.38,0.84,2/20/2014 0:00,6.34,Mostly cloudy throughout the day.
+11.34,wind,,7.2,0.86,1/1/2014 0:00,6.59,Breezy until evening.
+10.49,wind,0.4,7.66,0.78,1/3/2014 0:00,7.01,Partly cloudy until evening and breezy in the evening.
+13.36,wind,0.55,7.16,0.79,3/20/2014 0:00,7.35,Mostly cloudy until evening and breezy until afternoon.
+12.01,wind,0.39,6.03,0.77,1/9/2014 0:00,4.86,Breezy in the morning and partly cloudy until evening.
+10.68,partly-cloudy-day,0.21,5.57,0.7,3/22/2014 0:00,4.39,Partly cloudy until afternoon.
+9.13,wind,0.47,8.53,0.77,2/8/2014 0:00,6.81,Mostly cloudy until evening and breezy starting in the afternoon.
+9.81,wind,0.63,3.98,0.79,2/7/2014 0:00,4.13,Mostly cloudy until evening and breezy overnight.
+17.11,fog,0.05,0.87,0.76,3/13/2014 0:00,3.94,Foggy in the morning.
+8.59,partly-cloudy-day,0.2,2.68,0.81,1/11/2014 0:00,1.02,Partly cloudy until afternoon.
+7.66,fog,0.37,2.19,0.89,1/21/2014 0:00,1.97,Foggy in the morning.
+9.99,partly-cloudy-day,0.35,4.34,0.83,1/18/2014 0:00,7.58,Mostly cloudy until evening.
+9.58,partly-cloudy-day,0.61,4.46,0.84,1/4/2014 0:00,4.06,Mostly cloudy until evening.
+10.08,partly-cloudy-day,0.36,3.82,0.7,3/23/2014 0:00,2.48,Partly cloudy until evening.
+11.43,partly-cloudy-day,0.62,5.69,0.78,2/25/2014 0:00,6.79,Mostly cloudy throughout the day.
+7.99,partly-cloudy-day,0.47,4.92,0.79,2/3/2014 0:00,4.97,Mostly cloudy throughout the day.
+7.35,partly-cloudy-day,0.67,2.24,0.86,2/28/2014 0:00,3.43,Mostly cloudy until evening.
+10.15,partly-cloudy-day,0.22,5.42,0.72,2/21/2014 0:00,3.59,Partly cloudy throughout the day.
+11.38,wind,0.59,7.3,0.78,1/7/2014 0:00,8.98,Breezy in the morning and partly cloudy until evening.
+18.08,partly-cloudy-day,0.21,4.99,0.64,3/15/2014 0:00,7.72,Partly cloudy until afternoon.
+11.29,partly-cloudy-day,0.26,3.82,0.73,2/26/2014 0:00,4.17,Partly cloudy throughout the day.
+8.44,fog,0.17,0.2,0.89,1/20/2014 0:00,1.3,Foggy overnight.
+18.47,clear-day,0.08,4.19,0.65,3/29/2014 0:00,7.83,Clear throughout the day.
+11.92,cloudy,0.6,4.26,0.79,3/11/2014 0:00,6.19,Overcast until afternoon.
+9.3,partly-cloudy-day,0.22,4.75,0.72,2/2/2014 0:00,5.79,Partly cloudy until evening.
+10.14,partly-cloudy-day,0.4,3.56,0.85,1/10/2014 0:00,2.68,Mostly cloudy until evening.
+12.76,partly-cloudy-day,0.42,2.14,0.73,3/5/2014 0:00,1.33,Mostly cloudy throughout the day.
+10.67,partly-cloudy-day,0.56,4.07,0.83,2/17/2014 0:00,4.89,Mostly cloudy until evening.
+5.94,partly-cloudy-day,0.81,1.52,0.91,1/30/2014 0:00,3,Mostly cloudy until evening.
+10.04,fog,0.44,2.36,0.77,3/27/2014 0:00,2.71,Foggy overnight.
+10.2,partly-cloudy-day,0.37,2.69,0.69,3/24/2014 0:00,0.12,Mostly cloudy throughout the day.
+12.43,fog,0.19,3.31,0.75,3/28/2014 0:00,3.85,Foggy in the morning.
+9.03,partly-cloudy-day,0.4,4.55,0.79,1/26/2014 0:00,3.26,Mostly cloudy until evening.
+10.31,partly-cloudy-day,0.32,4.14,0.74,2/27/2014 0:00,3.93,Partly cloudy until evening.
+18.97,partly-cloudy-night,0.04,2.78,0.58,3/9/2014 0:00,7.65,Partly cloudy in the evening.
+8.83,wind,0.59,7.24,0.75,2/12/2014 0:00,3.03,Mostly cloudy until evening and breezy throughout the day.
+9.9,wind,0.35,9.96,0.69,2/15/2014 0:00,5.38,Windy and mostly cloudy until afternoon.
